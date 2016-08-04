@@ -1,0 +1,53 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.wokee'
+android {
+    compileSdkVersion versions.compileSdkVersion
+    buildToolsVersion versions.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion versions.minSdkVersion
+        versionCode versions.versionCode
+        versionName versions.versionName
+        multiDexEnabled true
+    }
+    lintOptions {
+        disable lintOption.invalidPackage
+    }
+    packagingOptions {
+        exclude packagingOption.javaxannotationprocessingProcessor
+        exclude packagingOption.okiopomxml
+        exclude packagingOption.okiopomproperties
+
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile libraries.junit
+    compile libraries.gson
+    compile libraries.butterknife
+    compile libraries.okio
+    compile libraries.klog
+    compile libraries.okhttputils
+    compile libraries.okhttp
+    compile libraries.rxandroid
+    compile libraries.rxjava
+    compile libraries.rxbus
+    compile libraries.universalimageloader
+    compile libraries.zxing
+    compile libraries.supportV4
+    compile libraries.multidex
+    compile libraries.photoView
+
+}

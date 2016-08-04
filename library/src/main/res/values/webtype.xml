@@ -1,0 +1,4049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="webtype"> 
+        [
+    {
+        \"extension\": \"123\",
+        \"type\": \"application/vnd.lotus-1-2-3\"
+    },
+    {
+        \"extension\": \"3dml\",
+        \"type\": \"text/vnd.in3d.3dml\"
+    },
+    {
+        \"extension\": \"3ds\",
+        \"type\": \"image/x-3ds\"
+    },
+    {
+        \"extension\": \"3g2\",
+        \"type\": \"video/3gpp2\"
+    },
+    {
+        \"extension\": \"3gp\",
+        \"type\": \"video/3gpp\"
+    },
+    {
+        \"extension\": \"7z\",
+        \"type\": \"application/x-7z-compressed\"
+    },
+    {
+        \"extension\": \"aab\",
+        \"type\": \"application/x-authorware-bin\"
+    },
+    {
+        \"extension\": \"aac\",
+        \"type\": \"audio/x-aac\"
+    },
+    {
+        \"extension\": \"aam\",
+        \"type\": \"application/x-authorware-map\"
+    },
+    {
+        \"extension\": \"aas\",
+        \"type\": \"application/x-authorware-seg\"
+    },
+    {
+        \"extension\": \"abs\",
+        \"type\": \"audio/x-mpeg\"
+    },
+    {
+        \"extension\": \"abw\",
+        \"type\": \"application/x-abiword\"
+    },
+    {
+        \"extension\": \"ac\",
+        \"type\": \"application/pkix-attr-cert\"
+    },
+    {
+        \"extension\": \"acc\",
+        \"type\": \"application/vnd.americandynamics.acc\"
+    },
+    {
+        \"extension\": \"ace\",
+        \"type\": \"application/x-ace-compressed\"
+    },
+    {
+        \"extension\": \"acu\",
+        \"type\": \"application/vnd.acucobol\"
+    },
+    {
+        \"extension\": \"acutc\",
+        \"type\": \"application/vnd.acucorp\"
+    },
+    {
+        \"extension\": \"adp\",
+        \"type\": \"audio/adpcm\"
+    },
+    {
+        \"extension\": \"aep\",
+        \"type\": \"application/vnd.audiograph\"
+    },
+    {
+        \"extension\": \"afm\",
+        \"type\": \"application/x-font-type1\"
+    },
+    {
+        \"extension\": \"afp\",
+        \"type\": \"application/vnd.ibm.modcap\"
+    },
+    {
+        \"extension\": \"ahead\",
+        \"type\": \"application/vnd.ahead.space\"
+    },
+    {
+        \"extension\": \"ai\",
+        \"type\": \"application/postscript\"
+    },
+    {
+        \"extension\": \"aif\",
+        \"type\": \"audio/x-aiff\"
+    },
+    {
+        \"extension\": \"aifc\",
+        \"type\": \"audio/x-aiff\"
+    },
+    {
+        \"extension\": \"aiff\",
+        \"type\": \"audio/x-aiff\"
+    },
+    {
+        \"extension\": \"aim\",
+        \"type\": \"application/x-aim\"
+    },
+    {
+        \"extension\": \"air\",
+        \"type\": \"application/vnd.adobe.air-application-installer-package+zip\"
+    },
+    {
+        \"extension\": \"ait\",
+        \"type\": \"application/vnd.dvb.ait\"
+    },
+    {
+        \"extension\": \"ami\",
+        \"type\": \"application/vnd.amiga.ami\"
+    },
+    {
+        \"extension\": \"anx\",
+        \"type\": \"application/annodex\"
+    },
+    {
+        \"extension\": \"apk\",
+        \"type\": \"application/vnd.android.package-archive\"
+    },
+    {
+        \"extension\": \"appcache\",
+        \"type\": \"text/cache-manifest\"
+    },
+    {
+        \"extension\": \"application\",
+        \"type\": \"application/x-ms-application\"
+    },
+    {
+        \"extension\": \"apr\",
+        \"type\": \"application/vnd.lotus-approach\"
+    },
+    {
+        \"extension\": \"arc\",
+        \"type\": \"application/x-freearc\"
+    },
+    {
+        \"extension\": \"art\",
+        \"type\": \"image/x-jg\"
+    },
+    {
+        \"extension\": \"asc\",
+        \"type\": \"application/pgp-signature\"
+    },
+    {
+        \"extension\": \"asf\",
+        \"type\": \"video/x-ms-asf\"
+    },
+    {
+        \"extension\": \"asm\",
+        \"type\": \"text/x-asm\"
+    },
+    {
+        \"extension\": \"aso\",
+        \"type\": \"application/vnd.accpac.simply.aso\"
+    },
+    {
+        \"extension\": \"asx\",
+        \"type\": \"video/x-ms-asf\"
+    },
+    {
+        \"extension\": \"atc\",
+        \"type\": \"application/vnd.acucorp\"
+    },
+    {
+        \"extension\": \"atom\",
+        \"type\": \"application/atom+xml\"
+    },
+    {
+        \"extension\": \"atomcat\",
+        \"type\": \"application/atomcat+xml\"
+    },
+    {
+        \"extension\": \"atomsvc\",
+        \"type\": \"application/atomsvc+xml\"
+    },
+    {
+        \"extension\": \"atx\",
+        \"type\": \"application/vnd.antix.game-component\"
+    },
+    {
+        \"extension\": \"au\",
+        \"type\": \"audio/basic\"
+    },
+    {
+        \"extension\": \"avi\",
+        \"type\": \"video/x-msvideo\"
+    },
+    {
+        \"extension\": \"avx\",
+        \"type\": \"video/x-rad-screenplay\"
+    },
+    {
+        \"extension\": \"aw\",
+        \"type\": \"application/applixware\"
+    },
+    {
+        \"extension\": \"axa\",
+        \"type\": \"audio/annodex\"
+    },
+    {
+        \"extension\": \"axv\",
+        \"type\": \"video/annodex\"
+    },
+    {
+        \"extension\": \"azf\",
+        \"type\": \"application/vnd.airzip.filesecure.azf\"
+    },
+    {
+        \"extension\": \"azs\",
+        \"type\": \"application/vnd.airzip.filesecure.azs\"
+    },
+    {
+        \"extension\": \"azw\",
+        \"type\": \"application/vnd.amazon.ebook\"
+    },
+    {
+        \"extension\": \"bat\",
+        \"type\": \"application/x-msdownload\"
+    },
+    {
+        \"extension\": \"bcpio\",
+        \"type\": \"application/x-bcpio\"
+    },
+    {
+        \"extension\": \"bdf\",
+        \"type\": \"application/x-font-bdf\"
+    },
+    {
+        \"extension\": \"bdm\",
+        \"type\": \"application/vnd.syncml.dm+wbxml\"
+    },
+    {
+        \"extension\": \"bed\",
+        \"type\": \"application/vnd.realvnc.bed\"
+    },
+    {
+        \"extension\": \"bh2\",
+        \"type\": \"application/vnd.fujitsu.oasysprs\"
+    },
+    {
+        \"extension\": \"bin\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"blb\",
+        \"type\": \"application/x-blorb\"
+    },
+    {
+        \"extension\": \"blorb\",
+        \"type\": \"application/x-blorb\"
+    },
+    {
+        \"extension\": \"bmi\",
+        \"type\": \"application/vnd.bmi\"
+    },
+    {
+        \"extension\": \"bmp\",
+        \"type\": \"image/bmp\"
+    },
+    {
+        \"extension\": \"body\",
+        \"type\": \"text/html\"
+    },
+    {
+        \"extension\": \"book\",
+        \"type\": \"application/vnd.framemaker\"
+    },
+    {
+        \"extension\": \"box\",
+        \"type\": \"application/vnd.previewsystems.box\"
+    },
+    {
+        \"extension\": \"boz\",
+        \"type\": \"application/x-bzip2\"
+    },
+    {
+        \"extension\": \"bpk\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"btif\",
+        \"type\": \"image/prs.btif\"
+    },
+    {
+        \"extension\": \"bz\",
+        \"type\": \"tion/x-bzip\"
+    },
+    {
+        \"extension\": \"bz2\",
+        \"type\": \"application/x-bzip2\"
+    },
+    {
+        \"extension\": \"c\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"c11amc\",
+        \"type\": \"application/vnd.cluetrust.cartomobile-config\"
+    },
+    {
+        \"extension\": \"c11amz\",
+        \"type\": \"application/vnd.cluetrust.cartomobile-config-pkg\"
+    },
+    {
+        \"extension\": \"c4d\",
+        \"type\": \"application/vnd.clonk.c4group\"
+    },
+    {
+        \"extension\": \"c4f\",
+        \"type\": \"application/vnd.clonk.c4group\"
+    },
+    {
+        \"extension\": \"c4g\",
+        \"type\": \"application/vnd.clonk.c4group\"
+    },
+    {
+        \"extension\": \"c4p\",
+        \"type\": \"application/vnd.clonk.c4group\"
+    },
+    {
+        \"extension\": \"c4u\",
+        \"type\": \"application/vnd.clonk.c4group\"
+    },
+    {
+        \"extension\": \"cab\",
+        \"type\": \"application/vnd.ms-cab-compressed\"
+    },
+    {
+        \"extension\": \"caf\",
+        \"type\": \"audio/x-caf\"
+    },
+    {
+        \"extension\": \"cap\",
+        \"type\": \"application/vnd.tcpdump.pcap\"
+    },
+    {
+        \"extension\": \"car\",
+        \"type\": \"application/vnd.curl.car\"
+    },
+    {
+        \"extension\": \"cat\",
+        \"type\": \"application/vnd.ms-pki.seccat\"
+    },
+    {
+        \"extension\": \"cb7\",
+        \"type\": \"application/x-cbr\"
+    },
+    {
+        \"extension\": \"cba\",
+        \"type\": \"application/x-cbr\"
+    },
+    {
+        \"extension\": \"cbr\",
+        \"type\": \"application/x-cbr\"
+    },
+    {
+        \"extension\": \"cbt\",
+        \"type\": \"application/x-cbr\"
+    },
+    {
+        \"extension\": \"cbz\",
+        \"type\": \"application/x-cbr\"
+    },
+    {
+        \"extension\": \"cc\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"cct\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"ccxml\",
+        \"type\": \"application/ccxml+xml\"
+    },
+    {
+        \"extension\": \"cdbcmsg\",
+        \"type\": \"application/vnd.contact.cmsg\"
+    },
+    {
+        \"extension\": \"cdf\",
+        \"type\": \"application/x-cdf\"
+    },
+    {
+        \"extension\": \"cdkey\",
+        \"type\": \"application/vnd.mediastation.cdkey\"
+    },
+    {
+        \"extension\": \"cdmia\",
+        \"type\": \"application/cdmi-capability\"
+    },
+    {
+        \"extension\": \"cdmic\",
+        \"type\": \"application/cdmi-container\"
+    },
+    {
+        \"extension\": \"cdmid\",
+        \"type\": \"application/cdmi-domain\"
+    },
+    {
+        \"extension\": \"cdmio\",
+        \"type\": \"application/cdmi-object\"
+    },
+    {
+        \"extension\": \"cdmiq\",
+        \"type\": \"application/cdmi-queue\"
+    },
+    {
+        \"extension\": \"cdx\",
+        \"type\": \"chemical/x-cdx\"
+    },
+    {
+        \"extension\": \"cdxml\",
+        \"type\": \"application/vnd.chemdraw+xml\"
+    },
+    {
+        \"extension\": \"cdy\",
+        \"type\": \"application/vnd.cinderella\"
+    },
+    {
+        \"extension\": \"cer\",
+        \"type\": \"application/pkix-cert\"
+    },
+    {
+        \"extension\": \"cfs\",
+        \"type\": \"application/x-cfs-compressed\"
+    },
+    {
+        \"extension\": \"cgm\",
+        \"type\": \"image/cgm\"
+    },
+    {
+        \"extension\": \"chat\",
+        \"type\": \"application/x-chat\"
+    },
+    {
+        \"extension\": \"chm\",
+        \"type\": \"application/vnd.ms-htmlhelp\"
+    },
+    {
+        \"extension\": \"chrt\",
+        \"type\": \"application/vnd.kde.kchart\"
+    },
+    {
+        \"extension\": \"cif\",
+        \"type\": \"chemical/x-cif\"
+    },
+    {
+        \"extension\": \"cii\",
+        \"type\": \"application/vnd.anser-web-certificate-issue-initiation\"
+    },
+    {
+        \"extension\": \"cil\",
+        \"type\": \"application/vnd.ms-artgalry\"
+    },
+    {
+        \"extension\": \"cla\",
+        \"type\": \"application/vnd.claymore\"
+    },
+    {
+        \"extension\": \"class\",
+        \"type\": \"application/java\"
+    },
+    {
+        \"extension\": \"clkk\",
+        \"type\": \"application/vnd.crick.clicker.keyboard\"
+    },
+    {
+        \"extension\": \"clkp\",
+        \"type\": \"application/vnd.crick.clicker.palette\"
+    },
+    {
+        \"extension\": \"clkt\",
+        \"type\": \"application/vnd.crick.clicker.template\"
+    },
+    {
+        \"extension\": \"clkw\",
+        \"type\": \"application/vnd.crick.clicker.wordbank\"
+    },
+    {
+        \"extension\": \"clkx\",
+        \"type\": \"application/vnd.crick.clicker\"
+    },
+    {
+        \"extension\": \"clp\",
+        \"type\": \"application/x-msclip\"
+    },
+    {
+        \"extension\": \"cmc\",
+        \"type\": \"application/vnd.cosmocaller\"
+    },
+    {
+        \"extension\": \"cmdf\",
+        \"type\": \"chemical/x-cmdf\"
+    },
+    {
+        \"extension\": \"cml\",
+        \"type\": \"chemical/x-cml\"
+    },
+    {
+        \"extension\": \"cmp\",
+        \"type\": \"application/vnd.yellowriver-custom-menu\"
+    },
+    {
+        \"extension\": \"cmx\",
+        \"type\": \"image/x-cmx\"
+    },
+    {
+        \"extension\": \"cod\",
+        \"type\": \"application/vnd.rim.cod\"
+    },
+    {
+        \"extension\": \"com\",
+        \"type\": \"application/x-msdownload\"
+    },
+    {
+        \"extension\": \"conf\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"cpio\",
+        \"type\": \"application/x-cpio\"
+    },
+    {
+        \"extension\": \"cpp\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"cpt\",
+        \"type\": \"application/mac-compactpro\"
+    },
+    {
+        \"extension\": \"crd\",
+        \"type\": \"ation/x-mscardfile\"
+    },
+    {
+        \"extension\": \"crl\",
+        \"type\": \"application/pkix-crl\"
+    },
+    {
+        \"extension\": \"crt\",
+        \"type\": \"application/x-x509-ca-cert\"
+    },
+    {
+        \"extension\": \"cryptonote\",
+        \"type\": \"application/vnd.rig.cryptonote\"
+    },
+    {
+        \"extension\": \"csh\",
+        \"type\": \"application/x-csh\"
+    },
+    {
+        \"extension\": \"csml\",
+        \"type\": \"chemical/x-csml\"
+    },
+    {
+        \"extension\": \"csp\",
+        \"type\": \"application/vnd.commonspace\"
+    },
+    {
+        \"extension\": \"css\",
+        \"type\": \"text/css\"
+    },
+    {
+        \"extension\": \"cst\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"csv\",
+        \"type\": \"text/csv\"
+    },
+    {
+        \"extension\": \"cu\",
+        \"type\": \"application/cu-seeme\"
+    },
+    {
+        \"extension\": \"curl\",
+        \"type\": \"text/vnd.curl\"
+    },
+    {
+        \"extension\": \"cww\",
+        \"type\": \"application/prs.cww\"
+    },
+    {
+        \"extension\": \"cxt\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"cxx\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"dae\",
+        \"type\": \"model/vnd.collada+xml\"
+    },
+    {
+        \"extension\": \"daf\",
+        \"type\": \"application/vnd.mobius.daf\"
+    },
+    {
+        \"extension\": \"dart\",
+        \"type\": \"application/vnd.dart\"
+    },
+    {
+        \"extension\": \"dataless\",
+        \"type\": \"application/vnd.fdsn.seed\"
+    },
+    {
+        \"extension\": \"davmount\",
+        \"type\": \"application/davmount+xml\"
+    },
+    {
+        \"extension\": \"dbk\",
+        \"type\": \"application/docbook+xml\"
+    },
+    {
+        \"extension\": \"dcr\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"dcurl\",
+        \"type\": \"text/vnd.curl.dcurl\"
+    },
+    {
+        \"extension\": \"dd2\",
+        \"type\": \"application/vnd.oma.dd2+xml\"
+    },
+    {
+        \"extension\": \"ddd\",
+        \"type\": \"application/vnd.fujixerox.ddd\"
+    },
+    {
+        \"extension\": \"deb\",
+        \"type\": \"application/x-debian-package\"
+    },
+    {
+        \"extension\": \"def\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"deploy\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"der\",
+        \"type\": \"application/x-x509-ca-cert\"
+    },
+    {
+        \"extension\": \"dfac\",
+        \"type\": \"application/vnd.dreamfactory\"
+    },
+    {
+        \"extension\": \"dgc\",
+        \"type\": \"application/x-dgc-compressed\"
+    },
+    {
+        \"extension\": \"dib\",
+        \"type\": \"image/bmp\"
+    },
+    {
+        \"extension\": \"dic\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"dir\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"dis\",
+        \"type\": \"application/vnd.mobius.dis\"
+    },
+    {
+        \"extension\": \"dist\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"distz\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"djv\",
+        \"type\": \"image/vnd.djvu\"
+    },
+    {
+        \"extension\": \"djvu\",
+        \"type\": \"image/vnd.djvu\"
+    },
+    {
+        \"extension\": \"dll\",
+        \"type\": \"application/x-msdownload\"
+    },
+    {
+        \"extension\": \"dmg\",
+        \"type\": \"application/x-apple-diskimage\"
+    },
+    {
+        \"extension\": \"dmp\",
+        \"type\": \"application/vnd.tcpdump.pcap\"
+    },
+    {
+        \"extension\": \"dms\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"dna\",
+        \"type\": \"application/vnd.dna\"
+    },
+    {
+        \"extension\": \"doc\",
+        \"type\": \"application/msword\"
+    },
+    {
+        \"extension\": \"docm\",
+        \"type\": \"application/vnd.ms-word.document.macroenabled.12\"
+    },
+    {
+        \"extension\": \"docx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.wordprocessingml.document\"
+    },
+    {
+        \"extension\": \"dot\",
+        \"type\": \"application/msword\"
+    },
+    {
+        \"extension\": \"dotm\",
+        \"type\": \"application/vnd.ms-word.template.macroenabled.12\"
+    },
+    {
+        \"extension\": \"dotx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.wordprocessingml.template\"
+    },
+    {
+        \"extension\": \"dp\",
+        \"type\": \"application/vnd.osgi.dp\"
+    },
+    {
+        \"extension\": \"dpg\",
+        \"type\": \"application/vnd.dpgraph\"
+    },
+    {
+        \"extension\": \"dra\",
+        \"type\": \"audio/vnd.dra\"
+    },
+    {
+        \"extension\": \"dsc\",
+        \"type\": \"text/prs.lines.tag\"
+    },
+    {
+        \"extension\": \"dssc\",
+        \"type\": \"application/dssc+der\"
+    },
+    {
+        \"extension\": \"dtb\",
+        \"type\": \"application/x-dtbook+xml\"
+    },
+    {
+        \"extension\": \"dtd\",
+        \"type\": \"application/xml-dtd\"
+    },
+    {
+        \"extension\": \"dts\",
+        \"type\": \"audio/vnd.dts\"
+    },
+    {
+        \"extension\": \"dtshd\",
+        \"type\": \"audio/vnd.dts.hd\"
+    },
+    {
+        \"extension\": \"dump\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"dv\",
+        \"type\": \"video/x-dv\"
+    },
+    {
+        \"extension\": \"dvb\",
+        \"type\": \"video/vnd.dvb.file\"
+    },
+    {
+        \"extension\": \"dvi\",
+        \"type\": \"application/x-dvi\"
+    },
+    {
+        \"extension\": \"dwf\",
+        \"type\": \"model/vnd.dwf\"
+    },
+    {
+        \"extension\": \"dwg\",
+        \"type\": \"image/vnd.dwg\"
+    },
+    {
+        \"extension\": \"dxf\",
+        \"type\": \"image/vnd.dxf\"
+    },
+    {
+        \"extension\": \"dxp\",
+        \"type\": \"application/vnd.spotfire.dxp\"
+    },
+    {
+        \"extension\": \"dxr\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"ecelp4800\",
+        \"type\": \"audio/vnd.nuera.ecelp4800\"
+    },
+    {
+        \"extension\": \"ecelp7470\",
+        \"type\": \"audio/vnd.nuera.ecelp7470\"
+    },
+    {
+        \"extension\": \"ecelp9600\",
+        \"type\": \"audio/vnd.nuera.ecelp9600\"
+    },
+    {
+        \"extension\": \"ecma\",
+        \"type\": \"application/ecmascript\"
+    },
+    {
+        \"extension\": \"edm\",
+        \"type\": \"application/vnd.novadigm.edm\"
+    },
+    {
+        \"extension\": \"edx\",
+        \"type\": \"application/vnd.novadigm.edx\"
+    },
+    {
+        \"extension\": \"efif\",
+        \"type\": \"application/vnd.picsel\"
+    },
+    {
+        \"extension\": \"ei6\",
+        \"type\": \"application/vnd.pg.osasli\"
+    },
+    {
+        \"extension\": \"elc\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"emf\",
+        \"type\": \"application/x-msmetafile\"
+    },
+    {
+        \"extension\": \"eml\",
+        \"type\": \"message/rfc822\"
+    },
+    {
+        \"extension\": \"emma\",
+        \"type\": \"application/emma+xml\"
+    },
+    {
+        \"extension\": \"emz\",
+        \"type\": \"application/x-msmetafile\"
+    },
+    {
+        \"extension\": \"eol\",
+        \"type\": \"audio/vnd.digital-winds\"
+    },
+    {
+        \"extension\": \"eot\",
+        \"type\": \"application/vnd.ms-fontobject\"
+    },
+    {
+        \"extension\": \"eps\",
+        \"type\": \"application/postscript\"
+    },
+    {
+        \"extension\": \"epub\",
+        \"type\": \"application/epub+zip\"
+    },
+    {
+        \"extension\": \"es3\",
+        \"type\": \"application/vnd.eszigno3+xml\"
+    },
+    {
+        \"extension\": \"esa\",
+        \"type\": \"application/vnd.osgi.subsystem\"
+    },
+    {
+        \"extension\": \"esf\",
+        \"type\": \"application/vnd.epson.esf\"
+    },
+    {
+        \"extension\": \"et3\",
+        \"type\": \"application/vnd.eszigno3+xml\"
+    },
+    {
+        \"extension\": \"etx\",
+        \"type\": \"text/x-setext\"
+    },
+    {
+        \"extension\": \"eva\",
+        \"type\": \"application/x-eva\"
+    },
+    {
+        \"extension\": \"evy\",
+        \"type\": \"application/x-envoy\"
+    },
+    {
+        \"extension\": \"exe\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"exi\",
+        \"type\": \"application/exi\"
+    },
+    {
+        \"extension\": \"ext\",
+        \"type\": \"application/vnd.novadigm.ext\"
+    },
+    {
+        \"extension\": \"ez\",
+        \"type\": \"application/andrew-inset\"
+    },
+    {
+        \"extension\": \"ez2\",
+        \"type\": \"application/vnd.ezpix-album\"
+    },
+    {
+        \"extension\": \"ez3\",
+        \"type\": \"application/vnd.ezpix-package\"
+    },
+    {
+        \"extension\": \"f\",
+        \"type\": \"text/x-fortran\"
+    },
+    {
+        \"extension\": \"f4v\",
+        \"type\": \"video/x-f4v\"
+    },
+    {
+        \"extension\": \"f77\",
+        \"type\": \"text/x-fortran\"
+    },
+    {
+        \"extension\": \"f90\",
+        \"type\": \"text/x-fortran\"
+    },
+    {
+        \"extension\": \"fbs\",
+        \"type\": \"image/vnd.fastbidsheet\"
+    },
+    {
+        \"extension\": \"fcdt\",
+        \"type\": \"application/vnd.adobe.formscentral.fcdt\"
+    },
+    {
+        \"extension\": \"fcs\",
+        \"type\": \"application/vnd.isac.fcs\"
+    },
+    {
+        \"extension\": \"fdf\",
+        \"type\": \"application/vnd.fdf\"
+    },
+    {
+        \"extension\": \"fe_launch\",
+        \"type\": \"application/vnd.denovo.fcselayout-link\"
+    },
+    {
+        \"extension\": \"fg5\",
+        \"type\": \"application/vnd.fujitsu.oasysgp\"
+    },
+    {
+        \"extension\": \"fgd\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"fh\",
+        \"type\": \"image/x-freehand\"
+    },
+    {
+        \"extension\": \"fh4\",
+        \"type\": \"image/x-freehand\"
+    },
+    {
+        \"extension\": \"fh5\",
+        \"type\": \"image/x-freehand\"
+    },
+    {
+        \"extension\": \"fh7\",
+        \"type\": \"image/x-freehand\"
+    },
+    {
+        \"extension\": \"fhc\",
+        \"type\": \"image/x-freehand\"
+    },
+    {
+        \"extension\": \"fig\",
+        \"type\": \"application/x-xfig\"
+    },
+    {
+        \"extension\": \"flac\",
+        \"type\": \"audio/flac\"
+    },
+    {
+        \"extension\": \"fli\",
+        \"type\": \"video/x-fli\"
+    },
+    {
+        \"extension\": \"flo\",
+        \"type\": \"application/vnd.micrografx.flo\"
+    },
+    {
+        \"extension\": \"flv\",
+        \"type\": \"video/x-flv\"
+    },
+    {
+        \"extension\": \"flw\",
+        \"type\": \"application/vnd.kde.kivio\"
+    },
+    {
+        \"extension\": \"flx\",
+        \"type\": \"text/vnd.fmi.flexstor\"
+    },
+    {
+        \"extension\": \"fly\",
+        \"type\": \"text/vnd.fly\"
+    },
+    {
+        \"extension\": \"fm\",
+        \"type\": \"application/vnd.framemaker\"
+    },
+    {
+        \"extension\": \"fnc\",
+        \"type\": \"application/vnd.frogans.fnc\"
+    },
+    {
+        \"extension\": \"for\",
+        \"type\": \"text/x-fortran\"
+    },
+    {
+        \"extension\": \"fpx\",
+        \"type\": \"image/vnd.fpx\"
+    },
+    {
+        \"extension\": \"frame\",
+        \"type\": \"plication/vnd.framemaker\"
+    },
+    {
+        \"extension\": \"fsc\",
+        \"type\": \"application/vnd.fsc.weblaunch\"
+    },
+    {
+        \"extension\": \"fst\",
+        \"type\": \"image/vnd.fst\"
+    },
+    {
+        \"extension\": \"ftc\",
+        \"type\": \"application/vnd.fluxtime.clip\"
+    },
+    {
+        \"extension\": \"fti\",
+        \"type\": \"application/vnd.anser-web-funds-transfer-initiation\"
+    },
+    {
+        \"extension\": \"fvt\",
+        \"type\": \"video/vnd.fvt\"
+    },
+    {
+        \"extension\": \"fxp\",
+        \"type\": \"application/vnd.adobe.fxp\"
+    },
+    {
+        \"extension\": \"fxpl\",
+        \"type\": \"application/vnd.adobe.fxp\"
+    },
+    {
+        \"extension\": \"fzs\",
+        \"type\": \"application/vnd.fuzzysheet\"
+    },
+    {
+        \"extension\": \"g2w\",
+        \"type\": \"application/vnd.geoplan\"
+    },
+    {
+        \"extension\": \"g3\",
+        \"type\": \"image/g3fax\"
+    },
+    {
+        \"extension\": \"g3w\",
+        \"type\": \"application/vnd.geospace\"
+    },
+    {
+        \"extension\": \"gac\",
+        \"type\": \"application/vnd.groove-account\"
+    },
+    {
+        \"extension\": \"gam\",
+        \"type\": \"application/x-tads\"
+    },
+    {
+        \"extension\": \"gbr\",
+        \"type\": \"application/rpki-ghostbusters\"
+    },
+    {
+        \"extension\": \"gca\",
+        \"type\": \"application/x-gca-compressed\"
+    },
+    {
+        \"extension\": \"gdl\",
+        \"type\": \"model/vnd.gdl\"
+    },
+    {
+        \"extension\": \"geo\",
+        \"type\": \"application/vnd.dynageo\"
+    },
+    {
+        \"extension\": \"gex\",
+        \"type\": \"application/vnd.geometry-explorer\"
+    },
+    {
+        \"extension\": \"ggb\",
+        \"type\": \"application/vnd.geogebra.file\"
+    },
+    {
+        \"extension\": \"ggt\",
+        \"type\": \"application/vnd.geogebra.tool\"
+    },
+    {
+        \"extension\": \"ghf\",
+        \"type\": \"application/vnd.groove-help\"
+    },
+    {
+        \"extension\": \"gif\",
+        \"type\": \"image/gif\"
+    },
+    {
+        \"extension\": \"gim\",
+        \"type\": \"application/vnd.groove-identity-message\"
+    },
+    {
+        \"extension\": \"gml\",
+        \"type\": \"application/gml+xml\"
+    },
+    {
+        \"extension\": \"gmx\",
+        \"type\": \"application/vnd.gmx\"
+    },
+    {
+        \"extension\": \"gnumeric\",
+        \"type\": \"application/x-gnumeric\"
+    },
+    {
+        \"extension\": \"gph\",
+        \"type\": \"application/vnd.flographit\"
+    },
+    {
+        \"extension\": \"gpx\",
+        \"type\": \"application/gpx+xml\"
+    },
+    {
+        \"extension\": \"gqf\",
+        \"type\": \"application/vnd.grafeq\"
+    },
+    {
+        \"extension\": \"gqs\",
+        \"type\": \"application/vnd.grafeq\"
+    },
+    {
+        \"extension\": \"gram\",
+        \"type\": \"application/srgs\"
+    },
+    {
+        \"extension\": \"gramps\",
+        \"type\": \"application/x-gramps-xml\"
+    },
+    {
+        \"extension\": \"gre\",
+        \"type\": \"application/vnd.geometry-explorer\"
+    },
+    {
+        \"extension\": \"grv\",
+        \"type\": \"application/vnd.groove-injector\"
+    },
+    {
+        \"extension\": \"grxml\",
+        \"type\": \"application/srgs+xml\"
+    },
+    {
+        \"extension\": \"gsf\",
+        \"type\": \"application/x-font-ghostscript\"
+    },
+    {
+        \"extension\": \"gtar\",
+        \"type\": \"application/x-gtar\"
+    },
+    {
+        \"extension\": \"gtm\",
+        \"type\": \"application/vnd.groove-tool-message\"
+    },
+    {
+        \"extension\": \"gtw\",
+        \"type\": \"model/vnd.gtw\"
+    },
+    {
+        \"extension\": \"gv\",
+        \"type\": \"text/vnd.graphviz\"
+    },
+    {
+        \"extension\": \"gxf\",
+        \"type\": \"application/gxf\"
+    },
+    {
+        \"extension\": \"gxt\",
+        \"type\": \"application/vnd.geonext\"
+    },
+    {
+        \"extension\": \"gz\",
+        \"type\": \"application/x-gzip\"
+    },
+    {
+        \"extension\": \"h\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"h261\",
+        \"type\": \"video/h261\"
+    },
+    {
+        \"extension\": \"h263\",
+        \"type\": \"video/h263\"
+    },
+    {
+        \"extension\": \"h264\",
+        \"type\": \"video/h264\"
+    },
+    {
+        \"extension\": \"hal\",
+        \"type\": \"application/vnd.hal+xml\"
+    },
+    {
+        \"extension\": \"hbci\",
+        \"type\": \"application/vnd.hbci\"
+    },
+    {
+        \"extension\": \"hdf\",
+        \"type\": \"application/x-hdf\"
+    },
+    {
+        \"extension\": \"hh\",
+        \"type\": \"text/x-c\"
+    },
+    {
+        \"extension\": \"hlp\",
+        \"type\": \"application/winhlp\"
+    },
+    {
+        \"extension\": \"hpgl\",
+        \"type\": \"application/vnd.hp-hpgl\"
+    },
+    {
+        \"extension\": \"hpid\",
+        \"type\": \"application/vnd.hp-hpid\"
+    },
+    {
+        \"extension\": \"hps\",
+        \"type\": \"application/vnd.hp-hps\"
+    },
+    {
+        \"extension\": \"hqx\",
+        \"type\": \"application/mac-binhex40\"
+    },
+    {
+        \"extension\": \"htc\",
+        \"type\": \"text/x-component\"
+    },
+    {
+        \"extension\": \"htke\",
+        \"type\": \"application/vnd.kenameaapp\"
+    },
+    {
+        \"extension\": \"htm\",
+        \"type\": \"text/html\"
+    },
+    {
+        \"extension\": \"html\",
+        \"type\": \"text/html\"
+    },
+    {
+        \"extension\": \"hvd\",
+        \"type\": \"application/vnd.yamaha.hv-dic\"
+    },
+    {
+        \"extension\": \"hvp\",
+        \"type\": \"application/vnd.yamaha.hv-voice\"
+    },
+    {
+        \"extension\": \"hvs\",
+        \"type\": \"-script\"
+    },
+    {
+        \"extension\": \"i2g\",
+        \"type\": \"application/vnd.intergeo\"
+    },
+    {
+        \"extension\": \"icc\",
+        \"type\": \"application/vnd.iccprofile\"
+    },
+    {
+        \"extension\": \"ice\",
+        \"type\": \"x-conference/x-cooltalk\"
+    },
+    {
+        \"extension\": \"icm\",
+        \"type\": \"application/vnd.iccprofile\"
+    },
+    {
+        \"extension\": \"ico\",
+        \"type\": \"image/x-icon\"
+    },
+    {
+        \"extension\": \"ics\",
+        \"type\": \"text/calendar\"
+    },
+    {
+        \"extension\": \"ief\",
+        \"type\": \"image/ief\"
+    },
+    {
+        \"extension\": \"ifb\",
+        \"type\": \"text/calendar\"
+    },
+    {
+        \"extension\": \"ifm\",
+        \"type\": \"application/vnd.shana.informed.formdata\"
+    },
+    {
+        \"extension\": \"iges\",
+        \"type\": \"model/iges\"
+    },
+    {
+        \"extension\": \"igl\",
+        \"type\": \"application/vnd.igloader\"
+    },
+    {
+        \"extension\": \"igm\",
+        \"type\": \"application/vnd.insors.igm\"
+    },
+    {
+        \"extension\": \"igs\",
+        \"type\": \"model/iges\"
+    },
+    {
+        \"extension\": \"igx\",
+        \"type\": \"application/vnd.micrografx.igx\"
+    },
+    {
+        \"extension\": \"iif\",
+        \"type\": \"application/vnd.shana.informed.interchange\"
+    },
+    {
+        \"extension\": \"imp\",
+        \"type\": \"application/vnd.accpac.simply.imp\"
+    },
+    {
+        \"extension\": \"ims\",
+        \"type\": \"application/vnd.ms-ims\"
+    },
+    {
+        \"extension\": \"in\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"ink\",
+        \"type\": \"application/inkml+xml\"
+    },
+    {
+        \"extension\": \"inkml\",
+        \"type\": \"application/inkml+xml\"
+    },
+    {
+        \"extension\": \"install\",
+        \"type\": \"application/x-install-instructions\"
+    },
+    {
+        \"extension\": \"iota\",
+        \"type\": \"application/vnd.astraea-software.iota\"
+    },
+    {
+        \"extension\": \"ipfix\",
+        \"type\": \"application/ipfix\"
+    },
+    {
+        \"extension\": \"ipk\",
+        \"type\": \"application/vnd.shana.informed.package\"
+    },
+    {
+        \"extension\": \"irm\",
+        \"type\": \"application/vnd.ibm.rights-management\"
+    },
+    {
+        \"extension\": \"irp\",
+        \"type\": \"application/vnd.irepository.package+xml\"
+    },
+    {
+        \"extension\": \"iso\",
+        \"type\": \"application/x-iso9660-image\"
+    },
+    {
+        \"extension\": \"itp\",
+        \"type\": \"application/vnd.shana.informed.formtemplate\"
+    },
+    {
+        \"extension\": \"ivp\",
+        \"type\": \"application/vnd.immervision-ivp\"
+    },
+    {
+        \"extension\": \"ivu\",
+        \"type\": \"application/vnd.immervision-ivu\"
+    },
+    {
+        \"extension\": \"jad\",
+        \"type\": \"text/vnd.sun.j2me.app-descriptor\"
+    },
+    {
+        \"extension\": \"jam\",
+        \"type\": \"application/vnd.jam\"
+    },
+    {
+        \"extension\": \"jar\",
+        \"type\": \"application/java-archive\"
+    },
+    {
+        \"extension\": \"java\",
+        \"type\": \"text/x-java-source\"
+    },
+    {
+        \"extension\": \"jisp\",
+        \"type\": \"application/vnd.jisp\"
+    },
+    {
+        \"extension\": \"jlt\",
+        \"type\": \"application/vnd.hp-jlyt\"
+    },
+    {
+        \"extension\": \"jnlp\",
+        \"type\": \"application/x-java-jnlp-file\"
+    },
+    {
+        \"extension\": \"joda\",
+        \"type\": \"application/vnd.joost.joda-archive\"
+    },
+    {
+        \"extension\": \"jpe\",
+        \"type\": \"image/jpeg\"
+    },
+    {
+        \"extension\": \"jpeg\",
+        \"type\": \"image/jpeg\"
+    },
+    {
+        \"extension\": \"jpg\",
+        \"type\": \"image/jpeg\"
+    },
+    {
+        \"extension\": \"jpgm\",
+        \"type\": \"video/jpm\"
+    },
+    {
+        \"extension\": \"jpgv\",
+        \"type\": \"video/jpeg\"
+    },
+    {
+        \"extension\": \"jpm\",
+        \"type\": \"video/jpm\"
+    },
+    {
+        \"extension\": \"js\",
+        \"type\": \"application/javascript\"
+    },
+    {
+        \"extension\": \"jsf\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"json\",
+        \"type\": \"application/json\"
+    },
+    {
+        \"extension\": \"jsonml\",
+        \"type\": \"application/jsonml+json\"
+    },
+    {
+        \"extension\": \"jspf\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"kar\",
+        \"type\": \"audio/midi\"
+    },
+    {
+        \"extension\": \"karbon\",
+        \"type\": \"application/vnd.kde.karbon\"
+    },
+    {
+        \"extension\": \"kfo\",
+        \"type\": \"application/vnd.kde.kformula\"
+    },
+    {
+        \"extension\": \"kia\",
+        \"type\": \"application/vnd.kidspiration\"
+    },
+    {
+        \"extension\": \"kml\",
+        \"type\": \"application/vnd.google-earth.kml+xml\"
+    },
+    {
+        \"extension\": \"kmz\",
+        \"type\": \"application/vnd.google-earth.kmz\"
+    },
+    {
+        \"extension\": \"kne\",
+        \"type\": \"application/vnd.kinar\"
+    },
+    {
+        \"extension\": \"knp\",
+        \"type\": \"application/vnd.kinar\"
+    },
+    {
+        \"extension\": \"kon\",
+        \"type\": \"application/vnd.kde.kontour\"
+    },
+    {
+        \"extension\": \"kpr\",
+        \"type\": \"application/vnd.kde.kpresenter\"
+    },
+    {
+        \"extension\": \"kpt\",
+        \"type\": \"application/vnd.kde.kpresenter\"
+    },
+    {
+        \"extension\": \"kpxx\",
+        \"type\": \"application/vnd.ds-keypoint\"
+    },
+    {
+        \"extension\": \"ksp\",
+        \"type\": \"application/vnd.kde.kspread\"
+    },
+    {
+        \"extension\": \"ktr\",
+        \"type\": \"application/vnd.kahootz\"
+    },
+    {
+        \"extension\": \"ktx\",
+        \"type\": \"image/ktx\"
+    },
+    {
+        \"extension\": \"ktz\",
+        \"type\": \"application/vnd.kahootz\"
+    },
+    {
+        \"extension\": \"kwd\",
+        \"type\": \"application/vnd.kde.kword\"
+    },
+    {
+        \"extension\": \"kwt\",
+        \"type\": \"application/vnd.kde.kword\"
+    },
+    {
+        \"extension\": \"lasxml\",
+        \"type\": \"application/vnd.las.las+xml\"
+    },
+    {
+        \"extension\": \"latex\",
+        \"type\": \"application/x-latex\"
+    },
+    {
+        \"extension\": \"lbd\",
+        \"type\": \"application/vnd.llamagraphics.life-balance.desktop\"
+    },
+    {
+        \"extension\": \"lbe\",
+        \"type\": \"application/vnd.llamagraphics.life-balance.exchange+xml\"
+    },
+    {
+        \"extension\": \"les\",
+        \"type\": \"application/vnd.hhe.lesson-player\"
+    },
+    {
+        \"extension\": \"lha\",
+        \"type\": \"application/x-lzh-compressed\"
+    },
+    {
+        \"extension\": \"link66\",
+        \"type\": \"application/vnd.route66.link66+xml\"
+    },
+    {
+        \"extension\": \"list\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"list3820\",
+        \"type\": \"application/vnd.ibm.modcap\"
+    },
+    {
+        \"extension\": \"listafp\",
+        \"type\": \"application/vnd.ibm.modcap\"
+    },
+    {
+        \"extension\": \"lnk\",
+        \"type\": \"application/x-ms-shortcut\"
+    },
+    {
+        \"extension\": \"log\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"lostxml\",
+        \"type\": \"application/lost+xml\"
+    },
+    {
+        \"extension\": \"lrf\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"lrm\",
+        \"type\": \"application/vnd.ms-lrm\"
+    },
+    {
+        \"extension\": \"ltf\",
+        \"type\": \"application/vnd.frogans.ltf\"
+    },
+    {
+        \"extension\": \"lvp\",
+        \"type\": \"audio/vnd.lucent.voice\"
+    },
+    {
+        \"extension\": \"lwp\",
+        \"type\": \"application/vnd.lotus-wordpro\"
+    },
+    {
+        \"extension\": \"lzh\",
+        \"type\": \"application/x-lzh-compressed\"
+    },
+    {
+        \"extension\": \"m13\",
+        \"type\": \"application/x-msmediaview\"
+    },
+    {
+        \"extension\": \"m14\",
+        \"type\": \"application/x-msmediaview\"
+    },
+    {
+        \"extension\": \"m1v\",
+        \"type\": \"video/mpeg\"
+    },
+    {
+        \"extension\": \"m21\",
+        \"type\": \"application/mp21\"
+    },
+    {
+        \"extension\": \"m2a\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"m2v\",
+        \"type\": \"video/mpeg\"
+    },
+    {
+        \"extension\": \"m3a\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"m3u\",
+        \"type\": \"audio/x-mpegurl\"
+    },
+    {
+        \"extension\": \"m3u8\",
+        \"type\": \"application/vnd.apple.mpegurl\"
+    },
+    {
+        \"extension\": \"m4a\",
+        \"type\": \"audio/mp4\"
+    },
+    {
+        \"extension\": \"m4b\",
+        \"type\": \"audio/mp4\"
+    },
+    {
+        \"extension\": \"m4r\",
+        \"type\": \"audio/mp4\"
+    },
+    {
+        \"extension\": \"m4u\",
+        \"type\": \"video/vnd.mpegurl\"
+    },
+    {
+        \"extension\": \"m4v\",
+        \"type\": \"video/mp4\"
+    },
+    {
+        \"extension\": \"ma\",
+        \"type\": \"application/mathematica\"
+    },
+    {
+        \"extension\": \"mac\",
+        \"type\": \"image/x-macpaint\"
+    },
+    {
+        \"extension\": \"mads\",
+        \"type\": \"application/mads+xml\"
+    },
+    {
+        \"extension\": \"mag\",
+        \"type\": \"application/vnd.ecowin.chart\"
+    },
+    {
+        \"extension\": \"maker\",
+        \"type\": \"application/vnd.framemaker\"
+    },
+    {
+        \"extension\": \"man\",
+        \"type\": \"text/troff\"
+    },
+    {
+        \"extension\": \"mar\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"mathml\",
+        \"type\": \"application/mathml+xml\"
+    },
+    {
+        \"extension\": \"mb\",
+        \"type\": \"application/mathematica\"
+    },
+    {
+        \"extension\": \"mbk\",
+        \"type\": \"application/vnd.mobius.mbk\"
+    },
+    {
+        \"extension\": \"mbox\",
+        \"type\": \"application/mbox\"
+    },
+    {
+        \"extension\": \"mc1\",
+        \"type\": \"application/vnd.medcalcdata\"
+    },
+    {
+        \"extension\": \"mcd\",
+        \"type\": \"application/vnd.mcd\"
+    },
+    {
+        \"extension\": \"mcurl\",
+        \"type\": \"text/vnd.curl.mcurl\"
+    },
+    {
+        \"extension\": \"mdb\",
+        \"type\": \"application/x-msaccess\"
+    },
+    {
+        \"extension\": \"mdi\",
+        \"type\": \"image/vnd.ms-modi\"
+    },
+    {
+        \"extension\": \"me\",
+        \"type\": \"text/troff\"
+    },
+    {
+        \"extension\": \"mesh\",
+        \"type\": \"model/mesh\"
+    },
+    {
+        \"extension\": \"meta4\",
+        \"type\": \"application/metalink4+xml\"
+    },
+    {
+        \"extension\": \"metalink\",
+        \"type\": \"application/metalink+xml\"
+    },
+    {
+        \"extension\": \"mets\",
+        \"type\": \"application/mets+xml\"
+    },
+    {
+        \"extension\": \"mfm\",
+        \"type\": \"application/vnd.mfmp\"
+    },
+    {
+        \"extension\": \"mft\",
+        \"type\": \"application/rpki-manifest\"
+    },
+    {
+        \"extension\": \"mgp\",
+        \"type\": \"application/vnd.osgeo.mapguide.package\"
+    },
+    {
+        \"extension\": \"mgz\",
+        \"type\": \"application/vnd.proteus.magazine\"
+    },
+    {
+        \"extension\": \"mid\",
+        \"type\": \"audio/midi\"
+    },
+    {
+        \"extension\": \"midi\",
+        \"type\": \"audio/midi\"
+    },
+    {
+        \"extension\": \"mie\",
+        \"type\": \"application/x-mie\"
+    },
+    {
+        \"extension\": \"mif\",
+        \"type\": \"application/x-mif\"
+    },
+    {
+        \"extension\": \"mime\",
+        \"type\": \"message/rfc822\"
+    },
+    {
+        \"extension\": \"mj2\",
+        \"type\": \"video/mj2\"
+    },
+    {
+        \"extension\": \"mjp2\",
+        \"type\": \"video/mj2\"
+    },
+    {
+        \"extension\": \"mk3d\",
+        \"type\": \"video/x-matroska\"
+    },
+    {
+        \"extension\": \"mka\",
+        \"type\": \"audio/x-matroska\"
+    },
+    {
+        \"extension\": \"mks\",
+        \"type\": \"video/x-matroska\"
+    },
+    {
+        \"extension\": \"mkv\",
+        \"type\": \"video/x-matroska\"
+    },
+    {
+        \"extension\": \"mlp\",
+        \"type\": \"application/vnd.dolby.mlp\"
+    },
+    {
+        \"extension\": \"mmd\",
+        \"type\": \"application/vnd.chipnuts.karaoke-mmd\"
+    },
+    {
+        \"extension\": \"mmf\",
+        \"type\": \"application/vnd.smaf\"
+    },
+    {
+        \"extension\": \"mmr\",
+        \"type\": \"image/vnd.fujixerox.edmics-mmr\"
+    },
+    {
+        \"extension\": \"mng\",
+        \"type\": \"video/x-mng\"
+    },
+    {
+        \"extension\": \"mny\",
+        \"type\": \"application/x-msmoney\"
+    },
+    {
+        \"extension\": \"mobi\",
+        \"type\": \"application/x-mobipocket-ebook\"
+    },
+    {
+        \"extension\": \"mods\",
+        \"type\": \"application/mods+xml\"
+    },
+    {
+        \"extension\": \"mov\",
+        \"type\": \"video/quicktime\"
+    },
+    {
+        \"extension\": \"movie\",
+        \"type\": \"video/x-sgi-movie\"
+    },
+    {
+        \"extension\": \"mp1\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"mp2\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"mp21\",
+        \"type\": \"application/mp21\"
+    },
+    {
+        \"extension\": \"mp2a\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"mp3\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"mp4\",
+        \"type\": \"video/mp4\"
+    },
+    {
+        \"extension\": \"mp4a\",
+        \"type\": \"audio/mp4\"
+    },
+    {
+        \"extension\": \"mp4s\",
+        \"type\": \"application/mp4\"
+    },
+    {
+        \"extension\": \"mp4v\",
+        \"type\": \"video/mp4\"
+    },
+    {
+        \"extension\": \"mpa\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"mpc\",
+        \"type\": \"application/vnd.mophun.certificate\"
+    },
+    {
+        \"extension\": \"mpe\",
+        \"type\": \"video/mpeg\"
+    },
+    {
+        \"extension\": \"mpeg\",
+        \"type\": \"video/mpeg\"
+    },
+    {
+        \"extension\": \"mpega\",
+        \"type\": \"audio/x-mpeg\"
+    },
+    {
+        \"extension\": \"mpg\",
+        \"type\": \"video/mpeg\"
+    },
+    {
+        \"extension\": \"mpg4\",
+        \"type\": \"video/mp4\"
+    },
+    {
+        \"extension\": \"mpga\",
+        \"type\": \"audio/mpeg\"
+    },
+    {
+        \"extension\": \"mpkg\",
+        \"type\": \"application/vnd.apple.installer+xml\"
+    },
+    {
+        \"extension\": \"mpm\",
+        \"type\": \"application/vnd.blueice.multipass\"
+    },
+    {
+        \"extension\": \"mpn\",
+        \"type\": \"application/vnd.mophun.application\"
+    },
+    {
+        \"extension\": \"mpp\",
+        \"type\": \"application/vnd.ms-project\"
+    },
+    {
+        \"extension\": \"mpt\",
+        \"type\": \"application/vnd.ms-project\"
+    },
+    {
+        \"extension\": \"mpv2\",
+        \"type\": \"video/mpeg2\"
+    },
+    {
+        \"extension\": \"mpy\",
+        \"type\": \"application/vnd.ibm.minipay\"
+    },
+    {
+        \"extension\": \"mqy\",
+        \"type\": \"application/vnd.mobius.mqy\"
+    },
+    {
+        \"extension\": \"mrc\",
+        \"type\": \"application/marc\"
+    },
+    {
+        \"extension\": \"mrcx\",
+        \"type\": \"application/marcxml+xml\"
+    },
+    {
+        \"extension\": \"ms\",
+        \"type\": \"text/troff\"
+    },
+    {
+        \"extension\": \"mscml\",
+        \"type\": \"application/mediaservercontrol+xml\"
+    },
+    {
+        \"extension\": \"mseed\",
+        \"type\": \"application/vnd.fdsn.mseed\"
+    },
+    {
+        \"extension\": \"mseq\",
+        \"type\": \"application/vnd.mseq\"
+    },
+    {
+        \"extension\": \"msf\",
+        \"type\": \"application/vnd.epson.msf\"
+    },
+    {
+        \"extension\": \"msh\",
+        \"type\": \"model/mesh\"
+    },
+    {
+        \"extension\": \"msi\",
+        \"type\": \"application/x-msdownload\"
+    },
+    {
+        \"extension\": \"msl\",
+        \"type\": \"application/vnd.mobius.msl\"
+    },
+    {
+        \"extension\": \"msty\",
+        \"type\": \"application/vnd.muvee.style\"
+    },
+    {
+        \"extension\": \"mts\",
+        \"type\": \"model/vnd.mts\"
+    },
+    {
+        \"extension\": \"mus\",
+        \"type\": \"application/vnd.musician\"
+    },
+    {
+        \"extension\": \"musicxml\",
+        \"type\": \"application/vnd.recordare.musicxml+xml\"
+    },
+    {
+        \"extension\": \"mvb\",
+        \"type\": \"application/x-msmediaview\"
+    },
+    {
+        \"extension\": \"mwf\",
+        \"type\": \"application/vnd.mfer\"
+    },
+    {
+        \"extension\": \"mxf\",
+        \"type\": \"application/mxf\"
+    },
+    {
+        \"extension\": \"mxl\",
+        \"type\": \"application/vnd.recordare.musicxml\"
+    },
+    {
+        \"extension\": \"mxml\",
+        \"type\": \"application/xv+xml\"
+    },
+    {
+        \"extension\": \"mxs\",
+        \"type\": \"application/vnd.triscape.mxs\"
+    },
+    {
+        \"extension\": \"mxu\",
+        \"type\": \"video/vnd.mpegurl\"
+    },
+    {
+        \"extension\": \"n-gage\",
+        \"type\": \"application/vnd.nokia.n-gage.symbian.install\"
+    },
+    {
+        \"extension\": \"n3\",
+        \"type\": \"text/n3\"
+    },
+    {
+        \"extension\": \"nb\",
+        \"type\": \"application/mathematica\"
+    },
+    {
+        \"extension\": \"nbp\",
+        \"type\": \"application/vnd.wolfram.player\"
+    },
+    {
+        \"extension\": \"nc\",
+        \"type\": \"application/x-netcdf\"
+    },
+    {
+        \"extension\": \"ncx\",
+        \"type\": \"application/x-dtbncx+xml\"
+    },
+    {
+        \"extension\": \"nfo\",
+        \"type\": \"text/x-nfo\"
+    },
+    {
+        \"extension\": \"ngdat\",
+        \"type\": \"application/vnd.nokia.n-gage.data\"
+    },
+    {
+        \"extension\": \"nitf\",
+        \"type\": \"application/vnd.nitf\"
+    },
+    {
+        \"extension\": \"nlu\",
+        \"type\": \"application/vnd.neurolanguage.nlu\"
+    },
+    {
+        \"extension\": \"nml\",
+        \"type\": \"application/vnd.enliven\"
+    },
+    {
+        \"extension\": \"nnd\",
+        \"type\": \"application/vnd.noblenet-directory\"
+    },
+    {
+        \"extension\": \"nns\",
+        \"type\": \"application/vnd.noblenet-sealer\"
+    },
+    {
+        \"extension\": \"nnw\",
+        \"type\": \"application/vnd.noblenet-web\"
+    },
+    {
+        \"extension\": \"npx\",
+        \"type\": \"image/vnd.net-fpx\"
+    },
+    {
+        \"extension\": \"nsc\",
+        \"type\": \"application/x-conference\"
+    },
+    {
+        \"extension\": \"nsf\",
+        \"type\": \"application/vnd.lotus-notes\"
+    },
+    {
+        \"extension\": \"ntf\",
+        \"type\": \"application/vnd.nitf\"
+    },
+    {
+        \"extension\": \"nzb\",
+        \"type\": \"application/x-nzb\"
+    },
+    {
+        \"extension\": \"oa2\",
+        \"type\": \"application/vnd.fujitsu.oasys2\"
+    },
+    {
+        \"extension\": \"oa3\",
+        \"type\": \"application/vnd.fujitsu.oasys3\"
+    },
+    {
+        \"extension\": \"oas\",
+        \"type\": \"application/vnd.fujitsu.oasys\"
+    },
+    {
+        \"extension\": \"obd\",
+        \"type\": \"application/x-msbinder\"
+    },
+    {
+        \"extension\": \"obj\",
+        \"type\": \"application/x-tgif\"
+    },
+    {
+        \"extension\": \"oda\",
+        \"type\": \"application/oda\"
+    },
+    {
+        \"extension\": \"odb\",
+        \"type\": \"application/vnd.oasis.opendocument.database\"
+    },
+    {
+        \"extension\": \"odc\",
+        \"type\": \"application/vnd.oasis.opendocument.chart\"
+    },
+    {
+        \"extension\": \"odf\",
+        \"type\": \"application/vnd.oasis.opendocument.formula\"
+    },
+    {
+        \"extension\": \"odft\",
+        \"type\": \"application/vnd.oasis.opendocument.formula-template\"
+    },
+    {
+        \"extension\": \"odg\",
+        \"type\": \"application/vnd.oasis.opendocument.graphics\"
+    },
+    {
+        \"extension\": \"odi\",
+        \"type\": \"application/vnd.oasis.opendocument.image\"
+    },
+    {
+        \"extension\": \"odm\",
+        \"type\": \"application/vnd.oasis.opendocument.text-master\"
+    },
+    {
+        \"extension\": \"odp\",
+        \"type\": \"application/vnd.oasis.opendocument.presentation\"
+    },
+    {
+        \"extension\": \"ods\",
+        \"type\": \"application/vnd.oasis.opendocument.spreadsheet\"
+    },
+    {
+        \"extension\": \"odt\",
+        \"type\": \"application/vnd.oasis.opendocument.text\"
+    },
+    {
+        \"extension\": \"oga\",
+        \"type\": \"audio/ogg\"
+    },
+    {
+        \"extension\": \"ogg\",
+        \"type\": \"audio/ogg\"
+    },
+    {
+        \"extension\": \"ogv\",
+        \"type\": \"video/ogg\"
+    },
+    {
+        \"extension\": \"ogx\",
+        \"type\": \"application/ogg\"
+    },
+    {
+        \"extension\": \"omdoc\",
+        \"type\": \"application/omdoc+xml\"
+    },
+    {
+        \"extension\": \"onepkg\",
+        \"type\": \"application/onenote\"
+    },
+    {
+        \"extension\": \"onetmp\",
+        \"type\": \"application/onenote\"
+    },
+    {
+        \"extension\": \"onetoc\",
+        \"type\": \"application/onenote\"
+    },
+    {
+        \"extension\": \"onetoc2\",
+        \"type\": \"application/onenote\"
+    },
+    {
+        \"extension\": \"opf\",
+        \"type\": \"application/oebps-package+xml\"
+    },
+    {
+        \"extension\": \"opml\",
+        \"type\": \"text/x-opml\"
+    },
+    {
+        \"extension\": \"oprc\",
+        \"type\": \"application/vnd.palm\"
+    },
+    {
+        \"extension\": \"org\",
+        \"type\": \"application/vnd.lotus-organizer\"
+    },
+    {
+        \"extension\": \"osf\",
+        \"type\": \"application/vnd.yamaha.openscoreformat\"
+    },
+    {
+        \"extension\": \"osfpvg\",
+        \"type\": \"application/vnd.yamaha.openscoreformat.osfpvg+xml\"
+    },
+    {
+        \"extension\": \"otc\",
+        \"type\": \"application/vnd.oasis.opendocument.chart-template\"
+    },
+    {
+        \"extension\": \"otf\",
+        \"type\": \"application/x-font-otf\"
+    },
+    {
+        \"extension\": \"otg\",
+        \"type\": \"application/vnd.oasis.opendocument.graphics-template\"
+    },
+    {
+        \"extension\": \"oth\",
+        \"type\": \"application/vnd.oasis.opendocument.text-web\"
+    },
+    {
+        \"extension\": \"oti\",
+        \"type\": \"application/vnd.oasis.opendocument.image-template\"
+    },
+    {
+        \"extension\": \"otp\",
+        \"type\": \"application/vnd.oasis.opendocument.presentation-template\"
+    },
+    {
+        \"extension\": \"ots\",
+        \"type\": \"application/vnd.oasis.opendocument.spreadsheet-template\"
+    },
+    {
+        \"extension\": \"ott\",
+        \"type\": \"application/vnd.oasis.opendocument.text-template\"
+    },
+    {
+        \"extension\": \"oxps\",
+        \"type\": \"application/oxps\"
+    },
+    {
+        \"extension\": \"oxt\",
+        \"type\": \"application/vnd.openofficeorg.extension\"
+    },
+    {
+        \"extension\": \"p\",
+        \"type\": \"text/x-pascal\"
+    },
+    {
+        \"extension\": \"p10\",
+        \"type\": \"application/pkcs10\"
+    },
+    {
+        \"extension\": \"p12\",
+        \"type\": \"application/x-pkcs12\"
+    },
+    {
+        \"extension\": \"p7b\",
+        \"type\": \"application/x-pkcs7-certificates\"
+    },
+    {
+        \"extension\": \"p7c\",
+        \"type\": \"application/pkcs7-mime\"
+    },
+    {
+        \"extension\": \"p7m\",
+        \"type\": \"application/pkcs7-mime\"
+    },
+    {
+        \"extension\": \"p7r\",
+        \"type\": \"application/x-pkcs7-certreqresp\"
+    },
+    {
+        \"extension\": \"p7s\",
+        \"type\": \"application/pkcs7-signature\"
+    },
+    {
+        \"extension\": \"p8\",
+        \"type\": \"application/pkcs8\"
+    },
+    {
+        \"extension\": \"pas\",
+        \"type\": \"text/x-pascal\"
+    },
+    {
+        \"extension\": \"paw\",
+        \"type\": \"application/vnd.pawaafile\"
+    },
+    {
+        \"extension\": \"pbd\",
+        \"type\": \"application/vnd.powerbuilder6\"
+    },
+    {
+        \"extension\": \"pbm\",
+        \"type\": \"image/x-portable-bitmap\"
+    },
+    {
+        \"extension\": \"pcap\",
+        \"type\": \"application/vnd.tcpdump.pcap\"
+    },
+    {
+        \"extension\": \"pcf\",
+        \"type\": \"application/x-font-pcf\"
+    },
+    {
+        \"extension\": \"pcl\",
+        \"type\": \"application/vnd.hp-pcl\"
+    },
+    {
+        \"extension\": \"pclxl\",
+        \"type\": \"application/vnd.hp-pclxl\"
+    },
+    {
+        \"extension\": \"pct\",
+        \"type\": \"image/pict\"
+    },
+    {
+        \"extension\": \"pcurl\",
+        \"type\": \"application/vnd.curl.pcurl\"
+    },
+    {
+        \"extension\": \"pcx\",
+        \"type\": \"image/x-pcx\"
+    },
+    {
+        \"extension\": \"pdb\",
+        \"type\": \"application/vnd.palm\"
+    },
+    {
+        \"extension\": \"pdf\",
+        \"type\": \"application/pdf\"
+    },
+    {
+        \"extension\": \"pfa\",
+        \"type\": \"application/x-font-type1\"
+    },
+    {
+        \"extension\": \"pfb\",
+        \"type\": \"application/x-font-type1\"
+    },
+    {
+        \"extension\": \"pfm\",
+        \"type\": \"application/x-font-type1\"
+    },
+    {
+        \"extension\": \"pfr\",
+        \"type\": \"application/font-tdpfr\"
+    },
+    {
+        \"extension\": \"pfx\",
+        \"type\": \"application/x-pkcs12\"
+    },
+    {
+        \"extension\": \"pgm\",
+        \"type\": \"image/x-portable-graymap\"
+    },
+    {
+        \"extension\": \"pgn\",
+        \"type\": \"application/x-chess-pgn\"
+    },
+    {
+        \"extension\": \"pgp\",
+        \"type\": \"application/pgp-encrypted\"
+    },
+    {
+        \"extension\": \"pic\",
+        \"type\": \"image/pict\"
+    },
+    {
+        \"extension\": \"pict\",
+        \"type\": \"image/pict\"
+    },
+    {
+        \"extension\": \"pkg\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"pki\",
+        \"type\": \"application/pkixcmp\"
+    },
+    {
+        \"extension\": \"pkipath\",
+        \"type\": \"application/pkix-pkipath\"
+    },
+    {
+        \"extension\": \"plb\",
+        \"type\": \"application/vnd.3gpp.pic-bw-large\"
+    },
+    {
+        \"extension\": \"plc\",
+        \"type\": \"application/vnd.mobius.plc\"
+    },
+    {
+        \"extension\": \"plf\",
+        \"type\": \"application/vnd.pocketlearn\"
+    },
+    {
+        \"extension\": \"pls\",
+        \"type\": \"audio/x-scpls\"
+    },
+    {
+        \"extension\": \"pml\",
+        \"type\": \"application/vnd.ctc-posml\"
+    },
+    {
+        \"extension\": \"png\",
+        \"type\": \"image/png\"
+    },
+    {
+        \"extension\": \"pnm\",
+        \"type\": \"image/x-portable-anymap\"
+    },
+    {
+        \"extension\": \"pnt\",
+        \"type\": \"image/x-macpaint\"
+    },
+    {
+        \"extension\": \"portpkg\",
+        \"type\": \"application/vnd.macports.portpkg\"
+    },
+    {
+        \"extension\": \"pot\",
+        \"type\": \"application/vnd.ms-powerpoint\"
+    },
+    {
+        \"extension\": \"potm\",
+        \"type\": \"application/vnd.ms-powerpoint.template.macroenabled.12\"
+    },
+    {
+        \"extension\": \"potx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.presentationml.template\"
+    },
+    {
+        \"extension\": \"ppam\",
+        \"type\": \"application/vnd.ms-powerpoint.addin.macroenabled.12\"
+    },
+    {
+        \"extension\": \"ppd\",
+        \"type\": \"application/vnd.cups-ppd\"
+    },
+    {
+        \"extension\": \"ppm\",
+        \"type\": \"image/x-portable-pixmap\"
+    },
+    {
+        \"extension\": \"pps\",
+        \"type\": \"application/vnd.ms-powerpoint\"
+    },
+    {
+        \"extension\": \"ppsm\",
+        \"type\": \"application/vnd.ms-powerpoint.slideshow.macroenabled.12\"
+    },
+    {
+        \"extension\": \"ppsx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.presentationml.slideshow\"
+    },
+    {
+        \"extension\": \"ppt\",
+        \"type\": \"application/vnd.ms-powerpoint\"
+    },
+    {
+        \"extension\": \"pptm\",
+        \"type\": \"application/vnd.ms-powerpoint.presentation.macroenabled.12\"
+    },
+    {
+        \"extension\": \"pptx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.presentationml.presentation\"
+    },
+    {
+        \"extension\": \"pqa\",
+        \"type\": \"application/vnd.palm\"
+    },
+    {
+        \"extension\": \"prc\",
+        \"type\": \"application/x-mobipocket-ebook\"
+    },
+    {
+        \"extension\": \"pre\",
+        \"type\": \"application/vnd.lotus-freelance\"
+    },
+    {
+        \"extension\": \"prf\",
+        \"type\": \"application/pics-rules\"
+    },
+    {
+        \"extension\": \"ps\",
+        \"type\": \"application/postscript\"
+    },
+    {
+        \"extension\": \"psb\",
+        \"type\": \"application/vnd.3gpp.pic-bw-small\"
+    },
+    {
+        \"extension\": \"psd\",
+        \"type\": \"image/vnd.adobe.photoshop\"
+    },
+    {
+        \"extension\": \"psf\",
+        \"type\": \"application/x-font-linux-psf\"
+    },
+    {
+        \"extension\": \"pskcxml\",
+        \"type\": \"application/pskc+xml\"
+    },
+    {
+        \"extension\": \"ptid\",
+        \"type\": \"application/vnd.pvi.ptid1\"
+    },
+    {
+        \"extension\": \"pub\",
+        \"type\": \"application/x-mspublisher\"
+    },
+    {
+        \"extension\": \"pvb\",
+        \"type\": \"application/vnd.3gpp.pic-bw-var\"
+    },
+    {
+        \"extension\": \"pwn\",
+        \"type\": \"application/vnd.3m.post-it-notes\"
+    },
+    {
+        \"extension\": \"pya\",
+        \"type\": \"audio/vnd.ms-playready.media.pya\"
+    },
+    {
+        \"extension\": \"pyv\",
+        \"type\": \"video/vnd.ms-playready.media.pyv\"
+    },
+    {
+        \"extension\": \"qam\",
+        \"type\": \"application/vnd.epson.quickanime\"
+    },
+    {
+        \"extension\": \"qbo\",
+        \"type\": \"application/vnd.intu.qbo\"
+    },
+    {
+        \"extension\": \"qfx\",
+        \"type\": \"application/vnd.intu.qfx\"
+    },
+    {
+        \"extension\": \"qps\",
+        \"type\": \"application/vnd.publishare-delta-tree\"
+    },
+    {
+        \"extension\": \"qt\",
+        \"type\": \"video/quicktime\"
+    },
+    {
+        \"extension\": \"qti\",
+        \"type\": \"image/x-quicktime\"
+    },
+    {
+        \"extension\": \"qtif\",
+        \"type\": \"image/x-quicktime\"
+    },
+    {
+        \"extension\": \"qwd\",
+        \"type\": \"application/vnd.quark.quarkxpress\"
+    },
+    {
+        \"extension\": \"qwt\",
+        \"type\": \"application/vnd.quark.quarkxpress\"
+    },
+    {
+        \"extension\": \"qxb\",
+        \"type\": \"application/vnd.quark.quarkxpress\"
+    },
+    {
+        \"extension\": \"qxd\",
+        \"type\": \"application/vnd.quark.quarkxpress\"
+    },
+    {
+        \"extension\": \"qxl\",
+        \"type\": \"application/vnd.quark.quarkxpress\"
+    },
+    {
+        \"extension\": \"qxt\",
+        \"type\": \"application/vnd.quark.quarkxpress\"
+    },
+    {
+        \"extension\": \"ra\",
+        \"type\": \"audio/x-pn-realaudio\"
+    },
+    {
+        \"extension\": \"ram\",
+        \"type\": \"audio/x-pn-realaudio\"
+    },
+    {
+        \"extension\": \"rar\",
+        \"type\": \"application/x-rar-compressed\"
+    },
+    {
+        \"extension\": \"ras\",
+        \"type\": \"image/x-cmu-raster\"
+    },
+    {
+        \"extension\": \"rcprofile\",
+        \"type\": \"application/vnd.ipunplugged.rcprofile\"
+    },
+    {
+        \"extension\": \"rdf\",
+        \"type\": \"application/rdf+xml\"
+    },
+    {
+        \"extension\": \"rdz\",
+        \"type\": \"application/vnd.data-vision.rdz\"
+    },
+    {
+        \"extension\": \"rep\",
+        \"type\": \"application/vnd.businessobjects\"
+    },
+    {
+        \"extension\": \"res\",
+        \"type\": \"application/x-dtbresource+xml\"
+    },
+    {
+        \"extension\": \"rgb\",
+        \"type\": \"image/x-rgb\"
+    },
+    {
+        \"extension\": \"rif\",
+        \"type\": \"application/reginfo+xml\"
+    },
+    {
+        \"extension\": \"rip\",
+        \"type\": \"audio/vnd.rip\"
+    },
+    {
+        \"extension\": \"ris\",
+        \"type\": \"application/x-research-info-systems\"
+    },
+    {
+        \"extension\": \"rl\",
+        \"type\": \"application/resource-lists+xml\"
+    },
+    {
+        \"extension\": \"rlc\",
+        \"type\": \"image/vnd.fujixerox.edmics-rlc\"
+    },
+    {
+        \"extension\": \"rld\",
+        \"type\": \"application/resource-lists-diff+xml\"
+    },
+    {
+        \"extension\": \"rm\",
+        \"type\": \"application/vnd.rn-realmedia\"
+    },
+    {
+        \"extension\": \"rmi\",
+        \"type\": \"audio/midi\"
+    },
+    {
+        \"extension\": \"rmp\",
+        \"type\": \"audio/x-pn-realaudio-plugin\"
+    },
+    {
+        \"extension\": \"rms\",
+        \"type\": \"application/vnd.jcp.javame.midlet-rms\"
+    },
+    {
+        \"extension\": \"rmvb\",
+        \"type\": \"application/vnd.rn-realmedia-vbr\"
+    },
+    {
+        \"extension\": \"rnc\",
+        \"type\": \"application/relax-ng-compact-syntax\"
+    },
+    {
+        \"extension\": \"roa\",
+        \"type\": \"application/rpki-roa\"
+    },
+    {
+        \"extension\": \"roff\",
+        \"type\": \"text/troff\"
+    },
+    {
+        \"extension\": \"rp9\",
+        \"type\": \"application/vnd.cloanto.rp9\"
+    },
+    {
+        \"extension\": \"rpss\",
+        \"type\": \"application/vnd.nokia.radio-presets\"
+    },
+    {
+        \"extension\": \"rpst\",
+        \"type\": \"application/vnd.nokia.radio-preset\"
+    },
+    {
+        \"extension\": \"rq\",
+        \"type\": \"application/sparql-query\"
+    },
+    {
+        \"extension\": \"rs\",
+        \"type\": \"application/rls-services+xml\"
+    },
+    {
+        \"extension\": \"rsd\",
+        \"type\": \"application/rsd+xml\"
+    },
+    {
+        \"extension\": \"rss\",
+        \"type\": \"application/rss+xml\"
+    },
+    {
+        \"extension\": \"rtf\",
+        \"type\": \"application/rtf\"
+    },
+    {
+        \"extension\": \"rtx\",
+        \"type\": \"text/richtext\"
+    },
+    {
+        \"extension\": \"s\",
+        \"type\": \"text/x-asm\"
+    },
+    {
+        \"extension\": \"s3m\",
+        \"type\": \"audio/s3m\"
+    },
+    {
+        \"extension\": \"saf\",
+        \"type\": \"application/vnd.yamaha.smaf-audio\"
+    },
+    {
+        \"extension\": \"sbml\",
+        \"type\": \"application/sbml+xml\"
+    },
+    {
+        \"extension\": \"sc\",
+        \"type\": \"application/vnd.ibm.secure-container\"
+    },
+    {
+        \"extension\": \"scd\",
+        \"type\": \"application/x-msschedule\"
+    },
+    {
+        \"extension\": \"scm\",
+        \"type\": \"application/vnd.lotus-screencam\"
+    },
+    {
+        \"extension\": \"scq\",
+        \"type\": \"application/scvp-cv-request\"
+    },
+    {
+        \"extension\": \"scs\",
+        \"type\": \"application/scvp-cv-response\"
+    },
+    {
+        \"extension\": \"scurl\",
+        \"type\": \"text/vnd.curl.scurl\"
+    },
+    {
+        \"extension\": \"sda\",
+        \"type\": \"application/vnd.stardivision.draw\"
+    },
+    {
+        \"extension\": \"sdc\",
+        \"type\": \"application/vnd.stardivision.calc\"
+    },
+    {
+        \"extension\": \"sdd\",
+        \"type\": \"application/vnd.stardivision.impress\"
+    },
+    {
+        \"extension\": \"sdkd\",
+        \"type\": \"application/vnd.solent.sdkm+xml\"
+    },
+    {
+        \"extension\": \"sdkm\",
+        \"type\": \"application/vnd.solent.sdkm+xml\"
+    },
+    {
+        \"extension\": \"sdp\",
+        \"type\": \"application/sdp\"
+    },
+    {
+        \"extension\": \"sdw\",
+        \"type\": \"application/vnd.stardivision.writer\"
+    },
+    {
+        \"extension\": \"see\",
+        \"type\": \"application/vnd.seemail\"
+    },
+    {
+        \"extension\": \"seed\",
+        \"type\": \"application/vnd.fdsn.seed\"
+    },
+    {
+        \"extension\": \"sema\",
+        \"type\": \"application/vnd.sema\"
+    },
+    {
+        \"extension\": \"semd\",
+        \"type\": \"application/vnd.semd\"
+    },
+    {
+        \"extension\": \"semf\",
+        \"type\": \"application/vnd.semf\"
+    },
+    {
+        \"extension\": \"ser\",
+        \"type\": \"application/java-serialized-object\"
+    },
+    {
+        \"extension\": \"setpay\",
+        \"type\": \"application/set-payment-initiation\"
+    },
+    {
+        \"extension\": \"setreg\",
+        \"type\": \"application/set-registration-initiation\"
+    },
+    {
+        \"extension\": \"sfd-hdstx\",
+        \"type\": \"application/vnd.hydrostatix.sof-data\"
+    },
+    {
+        \"extension\": \"sfs\",
+        \"type\": \"application/vnd.spotfire.sfs\"
+    },
+    {
+        \"extension\": \"sfv\",
+        \"type\": \"text/x-sfv\"
+    },
+    {
+        \"extension\": \"sgi\",
+        \"type\": \"image/sgi\"
+    },
+    {
+        \"extension\": \"sgl\",
+        \"type\": \"application/vnd.stardivision.writer-global\"
+    },
+    {
+        \"extension\": \"sgm\",
+        \"type\": \"text/sgml\"
+    },
+    {
+        \"extension\": \"sgml\",
+        \"type\": \"text/sgml\"
+    },
+    {
+        \"extension\": \"sh\",
+        \"type\": \"application/x-sh\"
+    },
+    {
+        \"extension\": \"shar\",
+        \"type\": \"application/x-shar\"
+    },
+    {
+        \"extension\": \"shf\",
+        \"type\": \"application/shf+xml\"
+    },
+    {
+        \"extension\": \"sid\",
+        \"type\": \"image/x-mrsid-image\"
+    },
+    {
+        \"extension\": \"sig\",
+        \"type\": \"application/pgp-signature\"
+    },
+    {
+        \"extension\": \"sil\",
+        \"type\": \"audio/silk\"
+    },
+    {
+        \"extension\": \"silo\",
+        \"type\": \"model/mesh\"
+    },
+    {
+        \"extension\": \"sis\",
+        \"type\": \"application/vnd.symbian.install\"
+    },
+    {
+        \"extension\": \"sisx\",
+        \"type\": \"application/vnd.symbian.install\"
+    },
+    {
+        \"extension\": \"sit\",
+        \"type\": \"application/x-stuffit\"
+    },
+    {
+        \"extension\": \"sitx\",
+        \"type\": \"application/x-stuffitx\"
+    },
+    {
+        \"extension\": \"skd\",
+        \"type\": \"application/vnd.koan\"
+    },
+    {
+        \"extension\": \"skm\",
+        \"type\": \"application/vnd.koan\"
+    },
+    {
+        \"extension\": \"skp\",
+        \"type\": \"application/vnd.koan\"
+    },
+    {
+        \"extension\": \"skt\",
+        \"type\": \"application/vnd.koan\"
+    },
+    {
+        \"extension\": \"sldm\",
+        \"type\": \"application/vnd.ms-powerpoint.slide.macroenabled.12\"
+    },
+    {
+        \"extension\": \"sldx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.presentationml.slide\"
+    },
+    {
+        \"extension\": \"slt\",
+        \"type\": \"application/vnd.epson.salt\"
+    },
+    {
+        \"extension\": \"sm\",
+        \"type\": \"application/vnd.stepmania.stepchart\"
+    },
+    {
+        \"extension\": \"smf\",
+        \"type\": \"application/vnd.stardivision.math\"
+    },
+    {
+        \"extension\": \"smi\",
+        \"type\": \"application/smil+xml\"
+    },
+    {
+        \"extension\": \"smil\",
+        \"type\": \"application/smil+xml\"
+    },
+    {
+        \"extension\": \"smv\",
+        \"type\": \"video/x-smv\"
+    },
+    {
+        \"extension\": \"smzip\",
+        \"type\": \"application/vnd.stepmania.package\"
+    },
+    {
+        \"extension\": \"snd\",
+        \"type\": \"audio/basic\"
+    },
+    {
+        \"extension\": \"snf\",
+        \"type\": \"application/x-font-snf\"
+    },
+    {
+        \"extension\": \"so\",
+        \"type\": \"application/octet-stream\"
+    },
+    {
+        \"extension\": \"spc\",
+        \"type\": \"application/x-pkcs7-certificates\"
+    },
+    {
+        \"extension\": \"spf\",
+        \"type\": \"application/vnd.yamaha.smaf-phrase\"
+    },
+    {
+        \"extension\": \"spl\",
+        \"type\": \"application/x-futuresplash\"
+    },
+    {
+        \"extension\": \"spot\",
+        \"type\": \"text/vnd.in3d.spot\"
+    },
+    {
+        \"extension\": \"spp\",
+        \"type\": \"application/scvp-vp-response\"
+    },
+    {
+        \"extension\": \"spq\",
+        \"type\": \"application/scvp-vp-request\"
+    },
+    {
+        \"extension\": \"spx\",
+        \"type\": \"audio/ogg\"
+    },
+    {
+        \"extension\": \"sql\",
+        \"type\": \"application/x-sql\"
+    },
+    {
+        \"extension\": \"src\",
+        \"type\": \"application/x-wais-source\"
+    },
+    {
+        \"extension\": \"srt\",
+        \"type\": \"application/x-subrip\"
+    },
+    {
+        \"extension\": \"sru\",
+        \"type\": \"application/sru+xml\"
+    },
+    {
+        \"extension\": \"srx\",
+        \"type\": \"application/sparql-results+xml\"
+    },
+    {
+        \"extension\": \"ssdl\",
+        \"type\": \"application/ssdl+xml\"
+    },
+    {
+        \"extension\": \"sse\",
+        \"type\": \"application/vnd.kodak-descriptor\"
+    },
+    {
+        \"extension\": \"ssf\",
+        \"type\": \"application/vnd.epson.ssf\"
+    },
+    {
+        \"extension\": \"ssml\",
+        \"type\": \"application/ssml+xml\"
+    },
+    {
+        \"extension\": \"st\",
+        \"type\": \"application/vnd.sailingtracker.track\"
+    },
+    {
+        \"extension\": \"stc\",
+        \"type\": \"application/vnd.sun.xml.calc.template\"
+    },
+    {
+        \"extension\": \"std\",
+        \"type\": \"application/vnd.sun.xml.draw.template\"
+    },
+    {
+        \"extension\": \"stf\",
+        \"type\": \"application/vnd.wt.stf\"
+    },
+    {
+        \"extension\": \"sti\",
+        \"type\": \"application/vnd.sun.xml.impress.template\"
+    },
+    {
+        \"extension\": \"stk\",
+        \"type\": \"application/hyperstudio\"
+    },
+    {
+        \"extension\": \"stl\",
+        \"type\": \"application/vnd.ms-pki.stl\"
+    },
+    {
+        \"extension\": \"str\",
+        \"type\": \"application/vnd.pg.format\"
+    },
+    {
+        \"extension\": \"stw\",
+        \"type\": \"application/vnd.sun.xml.writer.template\"
+    },
+    {
+        \"extension\": \"sub\",
+        \"type\": \"text/vnd.dvb.subtitle\"
+    },
+    {
+        \"extension\": \"sus\",
+        \"type\": \"application/vnd.sus-calendar\"
+    },
+    {
+        \"extension\": \"susp\",
+        \"type\": \"application/vnd.sus-calendar\"
+    },
+    {
+        \"extension\": \"sv4cpio\",
+        \"type\": \"application/x-sv4cpio\"
+    },
+    {
+        \"extension\": \"sv4crc\",
+        \"type\": \"application/x-sv4crc\"
+    },
+    {
+        \"extension\": \"svc\",
+        \"type\": \"application/vnd.dvb.service\"
+    },
+    {
+        \"extension\": \"svd\",
+        \"type\": \"application/vnd.svd\"
+    },
+    {
+        \"extension\": \"svg\",
+        \"type\": \"image/svg+xml\"
+    },
+    {
+        \"extension\": \"svgz\",
+        \"type\": \"image/svg+xml\"
+    },
+    {
+        \"extension\": \"swa\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"swf\",
+        \"type\": \"application/x-shockwave-flash\"
+    },
+    {
+        \"extension\": \"swi\",
+        \"type\": \"application/vnd.aristanetworks.swi\"
+    },
+    {
+        \"extension\": \"sxc\",
+        \"type\": \"application/vnd.sun.xml.calc\"
+    },
+    {
+        \"extension\": \"sxd\",
+        \"type\": \"application/vnd.sun.xml.draw\"
+    },
+    {
+        \"extension\": \"sxg\",
+        \"type\": \"application/vnd.sun.xml.writer.global\"
+    },
+    {
+        \"extension\": \"sxi\",
+        \"type\": \"application/vnd.sun.xml.impress\"
+    },
+    {
+        \"extension\": \"sxm\",
+        \"type\": \"application/vnd.sun.xml.math\"
+    },
+    {
+        \"extension\": \"sxw\",
+        \"type\": \"application/vnd.sun.xml.writer\"
+    },
+    {
+        \"extension\": \"t\",
+        \"type\": \"text/troff\"
+    },
+    {
+        \"extension\": \"t3\",
+        \"type\": \"application/x-t3vm-image\"
+    },
+    {
+        \"extension\": \"taglet\",
+        \"type\": \"application/vnd.mynfc\"
+    },
+    {
+        \"extension\": \"tao\",
+        \"type\": \"application/vnd.tao.intent-module-archive\"
+    },
+    {
+        \"extension\": \"tar\",
+        \"type\": \"application/x-tar\"
+    },
+    {
+        \"extension\": \"tcap\",
+        \"type\": \"application/vnd.3gpp2.tcap\"
+    },
+    {
+        \"extension\": \"tcl\",
+        \"type\": \"application/x-tcl\"
+    },
+    {
+        \"extension\": \"teacher\",
+        \"type\": \"application/vnd.smart.teacher\"
+    },
+    {
+        \"extension\": \"tei\",
+        \"type\": \"application/tei+xml\"
+    },
+    {
+        \"extension\": \"teicorpus\",
+        \"type\": \"application/tei+xml\"
+    },
+    {
+        \"extension\": \"tex\",
+        \"type\": \"application/x-tex\"
+    },
+    {
+        \"extension\": \"texi\",
+        \"type\": \"application/x-texinfo\"
+    },
+    {
+        \"extension\": \"texinfo\",
+        \"type\": \"application/x-texinfo\"
+    },
+    {
+        \"extension\": \"text\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"tfi\",
+        \"type\": \"application/thraud+xml\"
+    },
+    {
+        \"extension\": \"tfm\",
+        \"type\": \"application/x-tex-tfm\"
+    },
+    {
+        \"extension\": \"tga\",
+        \"type\": \"image/x-tga\"
+    },
+    {
+        \"extension\": \"thmx\",
+        \"type\": \"application/vnd.ms-officetheme\"
+    },
+    {
+        \"extension\": \"tif\",
+        \"type\": \"image/tiff\"
+    },
+    {
+        \"extension\": \"tiff\",
+        \"type\": \"image/tiff\"
+    },
+    {
+        \"extension\": \"tmo\",
+        \"type\": \"application/vnd.tmobile-livetv\"
+    },
+    {
+        \"extension\": \"torrent\",
+        \"type\": \"application/x-bittorrent\"
+    },
+    {
+        \"extension\": \"tpl\",
+        \"type\": \"application/vnd.groove-tool-template\"
+    },
+    {
+        \"extension\": \"tpt\",
+        \"type\": \"application/vnd.trid.tpt\"
+    },
+    {
+        \"extension\": \"tr\",
+        \"type\": \"text/troff\"
+    },
+    {
+        \"extension\": \"tra\",
+        \"type\": \"application/vnd.trueapp\"
+    },
+    {
+        \"extension\": \"trm\",
+        \"type\": \"application/x-msterminal\"
+    },
+    {
+        \"extension\": \"tsd\",
+        \"type\": \"application/timestamped-data\"
+    },
+    {
+        \"extension\": \"tsv\",
+        \"type\": \"text/tab-separated-values\"
+    },
+    {
+        \"extension\": \"ttc\",
+        \"type\": \"application/x-font-ttf\"
+    },
+    {
+        \"extension\": \"ttf\",
+        \"type\": \"application/x-font-ttf\"
+    },
+    {
+        \"extension\": \"ttl\",
+        \"type\": \"text/turtle\"
+    },
+    {
+        \"extension\": \"twd\",
+        \"type\": \"application/vnd.simtech-mindmapper\"
+    },
+    {
+        \"extension\": \"twds\",
+        \"type\": \"application/vnd.simtech-mindmapper\"
+    },
+    {
+        \"extension\": \"txd\",
+        \"type\": \"application/vnd.genomatix.tuxedo\"
+    },
+    {
+        \"extension\": \"txf\",
+        \"type\": \"application/vnd.mobius.txf\"
+    },
+    {
+        \"extension\": \"txt\",
+        \"type\": \"text/plain\"
+    },
+    {
+        \"extension\": \"u32\",
+        \"type\": \"application/x-authorware-bin\"
+    },
+    {
+        \"extension\": \"udeb\",
+        \"type\": \"application/x-debian-package\"
+    },
+    {
+        \"extension\": \"ufd\",
+        \"type\": \"application/vnd.ufdl\"
+    },
+    {
+        \"extension\": \"ufdl\",
+        \"type\": \"application/vnd.ufdl\"
+    },
+    {
+        \"extension\": \"ulw\",
+        \"type\": \"audio/basic\"
+    },
+    {
+        \"extension\": \"ulx\",
+        \"type\": \"application/x-glulx\"
+    },
+    {
+        \"extension\": \"umj\",
+        \"type\": \"application/vnd.umajin\"
+    },
+    {
+        \"extension\": \"unityweb\",
+        \"type\": \"application/vnd.unity\"
+    },
+    {
+        \"extension\": \"uoml\",
+        \"type\": \"application/vnd.uoml+xml\"
+    },
+    {
+        \"extension\": \"uri\",
+        \"type\": \"text/uri-list\"
+    },
+    {
+        \"extension\": \"uris\",
+        \"type\": \"text/uri-list\"
+    },
+    {
+        \"extension\": \"urls\",
+        \"type\": \"text/uri-list\"
+    },
+    {
+        \"extension\": \"ustar\",
+        \"type\": \"application/x-ustar\"
+    },
+    {
+        \"extension\": \"utz\",
+        \"type\": \"application/vnd.uiq.theme\"
+    },
+    {
+        \"extension\": \"uu\",
+        \"type\": \"text/x-uuencode\"
+    },
+    {
+        \"extension\": \"uva\",
+        \"type\": \"audio/vnd.dece.audio\"
+    },
+    {
+        \"extension\": \"uvd\",
+        \"type\": \"application/vnd.dece.data\"
+    },
+    {
+        \"extension\": \"uvf\",
+        \"type\": \"application/vnd.dece.data\"
+    },
+    {
+        \"extension\": \"uvg\",
+        \"type\": \"image/vnd.dece.graphic\"
+    },
+    {
+        \"extension\": \"uvh\",
+        \"type\": \"video/vnd.dece.hd\"
+    },
+    {
+        \"extension\": \"uvi\",
+        \"type\": \"image/vnd.dece.graphic\"
+    },
+    {
+        \"extension\": \"uvm\",
+        \"type\": \"video/vnd.dece.mobile\"
+    },
+    {
+        \"extension\": \"uvp\",
+        \"type\": \"video/vnd.dece.pd\"
+    },
+    {
+        \"extension\": \"uvs\",
+        \"type\": \"video/vnd.dece.sd\"
+    },
+    {
+        \"extension\": \"uvt\",
+        \"type\": \"application/vnd.dece.ttml+xml\"
+    },
+    {
+        \"extension\": \"uvu\",
+        \"type\": \"video/vnd.uvvu.mp4\"
+    },
+    {
+        \"extension\": \"uvv\",
+        \"type\": \"video/vnd.dece.video\"
+    },
+    {
+        \"extension\": \"uvva\",
+        \"type\": \"audio/vnd.dece.audio\"
+    },
+    {
+        \"extension\": \"uvvd\",
+        \"type\": \"application/vnd.dece.data\"
+    },
+    {
+        \"extension\": \"uvvf\",
+        \"type\": \"application/vnd.dece.data\"
+    },
+    {
+        \"extension\": \"uvvg\",
+        \"type\": \"image/vnd.dece.graphic\"
+    },
+    {
+        \"extension\": \"uvvh\",
+        \"type\": \"video/vnd.dece.hd\"
+    },
+    {
+        \"extension\": \"uvvi\",
+        \"type\": \"image/vnd.dece.graphic\"
+    },
+    {
+        \"extension\": \"uvvm\",
+        \"type\": \"video/vnd.dece.mobile\"
+    },
+    {
+        \"extension\": \"uvvp\",
+        \"type\": \"video/vnd.dece.pd\"
+    },
+    {
+        \"extension\": \"uvvs\",
+        \"type\": \"video/vnd.dece.sd\"
+    },
+    {
+        \"extension\": \"uvvt\",
+        \"type\": \"application/vnd.dece.ttml+xml\"
+    },
+    {
+        \"extension\": \"uvvu\",
+        \"type\": \"video/vnd.uvvu.mp4\"
+    },
+    {
+        \"extension\": \"uvvv\",
+        \"type\": \"video/vnd.dece.video\"
+    },
+    {
+        \"extension\": \"uvvx\",
+        \"type\": \"application/vnd.dece.unspecified\"
+    },
+    {
+        \"extension\": \"uvvz\",
+        \"type\": \"application/vnd.dece.zip\"
+    },
+    {
+        \"extension\": \"uvx\",
+        \"type\": \"application/vnd.dece.unspecified\"
+    },
+    {
+        \"extension\": \"uvz\",
+        \"type\": \"application/vnd.dece.zip\"
+    },
+    {
+        \"extension\": \"vcard\",
+        \"type\": \"text/vcard\"
+    },
+    {
+        \"extension\": \"vcd\",
+        \"type\": \"application/x-cdlink\"
+    },
+    {
+        \"extension\": \"vcf\",
+        \"type\": \"text/x-vcard\"
+    },
+    {
+        \"extension\": \"vcg\",
+        \"type\": \"application/vnd.groove-vcard\"
+    },
+    {
+        \"extension\": \"vcs\",
+        \"type\": \"text/x-vcalendar\"
+    },
+    {
+        \"extension\": \"vcx\",
+        \"type\": \"application/vnd.vcx\"
+    },
+    {
+        \"extension\": \"vis\",
+        \"type\": \"application/vnd.visionary\"
+    },
+    {
+        \"extension\": \"viv\",
+        \"type\": \"video/vnd.vivo\"
+    },
+    {
+        \"extension\": \"vob\",
+        \"type\": \"video/x-ms-vob\"
+    },
+    {
+        \"extension\": \"vor\",
+        \"type\": \"application/vnd.stardivision.writer\"
+    },
+    {
+        \"extension\": \"vox\",
+        \"type\": \"application/x-authorware-bin\"
+    },
+    {
+        \"extension\": \"vrml\",
+        \"type\": \"model/vrml\"
+    },
+    {
+        \"extension\": \"vsd\",
+        \"type\": \"application/vnd.visio\"
+    },
+    {
+        \"extension\": \"vsf\",
+        \"type\": \"application/vnd.vsf\"
+    },
+    {
+        \"extension\": \"vss\",
+        \"type\": \"application/vnd.visio\"
+    },
+    {
+        \"extension\": \"vst\",
+        \"type\": \"application/vnd.visio\"
+    },
+    {
+        \"extension\": \"vsw\",
+        \"type\": \"application/vnd.visio\"
+    },
+    {
+        \"extension\": \"vtu\",
+        \"type\": \"model/vnd.vtu\"
+    },
+    {
+        \"extension\": \"vxml\",
+        \"type\": \"application/voicexml+xml\"
+    },
+    {
+        \"extension\": \"w3d\",
+        \"type\": \"application/x-director\"
+    },
+    {
+        \"extension\": \"wad\",
+        \"type\": \"application/x-doom\"
+    },
+    {
+        \"extension\": \"wav\",
+        \"type\": \"audio/x-wav\"
+    },
+    {
+        \"extension\": \"wax\",
+        \"type\": \"audio/x-ms-wax\"
+    },
+    {
+        \"extension\": \"wbmp\",
+        \"type\": \"image/vnd.wap.wbmp\"
+    },
+    {
+        \"extension\": \"wbs\",
+        \"type\": \"application/vnd.criticaltools.wbs+xml\"
+    },
+    {
+        \"extension\": \"wbxml\",
+        \"type\": \"application/vnd.wap.wbxml\"
+    },
+    {
+        \"extension\": \"wcm\",
+        \"type\": \"application/vnd.ms-works\"
+    },
+    {
+        \"extension\": \"wdb\",
+        \"type\": \"application/vnd.ms-works\"
+    },
+    {
+        \"extension\": \"wdp\",
+        \"type\": \"image/vnd.ms-photo\"
+    },
+    {
+        \"extension\": \"weba\",
+        \"type\": \"audio/webm\"
+    },
+    {
+        \"extension\": \"webm\",
+        \"type\": \"video/webm\"
+    },
+    {
+        \"extension\": \"webp\",
+        \"type\": \"image/webp\"
+    },
+    {
+        \"extension\": \"wg\",
+        \"type\": \"application/vnd.pmi.widget\"
+    },
+    {
+        \"extension\": \"wgt\",
+        \"type\": \"application/widget\"
+    },
+    {
+        \"extension\": \"wks\",
+        \"type\": \"application/vnd.ms-works\"
+    },
+    {
+        \"extension\": \"wm\",
+        \"type\": \"video/x-ms-wm\"
+    },
+    {
+        \"extension\": \"wma\",
+        \"type\": \"audio/x-ms-wma\"
+    },
+    {
+        \"extension\": \"wmd\",
+        \"type\": \"application/x-ms-wmd\"
+    },
+    {
+        \"extension\": \"wmf\",
+        \"type\": \"application/x-msmetafile\"
+    },
+    {
+        \"extension\": \"wml\",
+        \"type\": \"text/vnd.wap.wml\"
+    },
+    {
+        \"extension\": \"wmlc\",
+        \"type\": \"application/vnd.wap.wmlc\"
+    },
+    {
+        \"extension\": \"wmls\",
+        \"type\": \"text/vnd.wap.wmlscript\"
+    },
+    {
+        \"extension\": \"wmlsc\",
+        \"type\": \"application/vnd.wap.wmlscriptc\"
+    },
+    {
+        \"extension\": \"wmv\",
+        \"type\": \"video/x-ms-wmv\"
+    },
+    {
+        \"extension\": \"wmx\",
+        \"type\": \"video/x-ms-wmx\"
+    },
+    {
+        \"extension\": \"wmz\",
+        \"type\": \"application/x-msmetafile\"
+    },
+    {
+        \"extension\": \"woff\",
+        \"type\": \"application/x-font-woff\"
+    },
+    {
+        \"extension\": \"wpd\",
+        \"type\": \"application/vnd.wordperfect\"
+    },
+    {
+        \"extension\": \"wpl\",
+        \"type\": \"application/vnd.ms-wpl\"
+    },
+    {
+        \"extension\": \"wps\",
+        \"type\": \"application/vnd.ms-works\"
+    },
+    {
+        \"extension\": \"wqd\",
+        \"type\": \"application/vnd.wqd\"
+    },
+    {
+        \"extension\": \"wri\",
+        \"type\": \"application/x-mswrite\"
+    },
+    {
+        \"extension\": \"wrl\",
+        \"type\": \"model/vrml\"
+    },
+    {
+        \"extension\": \"wsdl\",
+        \"type\": \"application/wsdl+xml\"
+    },
+    {
+        \"extension\": \"wspolicy\",
+        \"type\": \"application/wspolicy+xml\"
+    },
+    {
+        \"extension\": \"wtb\",
+        \"type\": \"application/vnd.webturbo\"
+    },
+    {
+        \"extension\": \"wvx\",
+        \"type\": \"video/x-ms-wvx\"
+    },
+    {
+        \"extension\": \"x32\",
+        \"type\": \"application/x-authorware-bin\"
+    },
+    {
+        \"extension\": \"x3d\",
+        \"type\": \"model/x3d+xml\"
+    },
+    {
+        \"extension\": \"x3db\",
+        \"type\": \"model/x3d+binary\"
+    },
+    {
+        \"extension\": \"x3dbz\",
+        \"type\": \"model/x3d+binary\"
+    },
+    {
+        \"extension\": \"x3dv\",
+        \"type\": \"model/x3d+vrml\"
+    },
+    {
+        \"extension\": \"x3dvz\",
+        \"type\": \"model/x3d+vrml\"
+    },
+    {
+        \"extension\": \"x3dz\",
+        \"type\": \"model/x3d+xml\"
+    },
+    {
+        \"extension\": \"xaml\",
+        \"type\": \"application/xaml+xml\"
+    },
+    {
+        \"extension\": \"xap\",
+        \"type\": \"application/x-silverlight-app\"
+    },
+    {
+        \"extension\": \"xar\",
+        \"type\": \"application/vnd.xara\"
+    },
+    {
+        \"extension\": \"xbap\",
+        \"type\": \"application/x-ms-xbap\"
+    },
+    {
+        \"extension\": \"xbd\",
+        \"type\": \"application/vnd.fujixerox.docuworks.binder\"
+    },
+    {
+        \"extension\": \"xbm\",
+        \"type\": \"image/x-xbitmap\"
+    },
+    {
+        \"extension\": \"xdf\",
+        \"type\": \"application/xcap-diff+xml\"
+    },
+    {
+        \"extension\": \"xdm\",
+        \"type\": \"application/vnd.syncml.dm+xml\"
+    },
+    {
+        \"extension\": \"xdp\",
+        \"type\": \"application/vnd.adobe.xdp+xml\"
+    },
+    {
+        \"extension\": \"xdssc\",
+        \"type\": \"application/dssc+xml\"
+    },
+    {
+        \"extension\": \"xdw\",
+        \"type\": \"application/vnd.fujixerox.docuworks\"
+    },
+    {
+        \"extension\": \"xenc\",
+        \"type\": \"application/xenc+xml\"
+    },
+    {
+        \"extension\": \"xer\",
+        \"type\": \"application/patch-ops-error+xml\"
+    },
+    {
+        \"extension\": \"xfdf\",
+        \"type\": \"application/vnd.adobe.xfdf\"
+    },
+    {
+        \"extension\": \"xfdl\",
+        \"type\": \"application/vnd.xfdl\"
+    },
+    {
+        \"extension\": \"xht\",
+        \"type\": \"application/xhtml+xml\"
+    },
+    {
+        \"extension\": \"xhtml\",
+        \"type\": \"application/xhtml+xml\"
+    },
+    {
+        \"extension\": \"xhvml\",
+        \"type\": \"application/xv+xml\"
+    },
+    {
+        \"extension\": \"xif\",
+        \"type\": \"image/vnd.xiff\"
+    },
+    {
+        \"extension\": \"xla\",
+        \"type\": \"application/vnd.ms-excel\"
+    },
+    {
+        \"extension\": \"xlam\",
+        \"type\": \"application/vnd.ms-excel.addin.macroenabled.12\"
+    },
+    {
+        \"extension\": \"xlc\",
+        \"type\": \"application/vnd.ms-excel\"
+    },
+    {
+        \"extension\": \"xlf\",
+        \"type\": \"application/x-xliff+xml\"
+    },
+    {
+        \"extension\": \"xlm\",
+        \"type\": \"application/vnd.ms-excel\"
+    },
+    {
+        \"extension\": \"xls\",
+        \"type\": \"application/vnd.ms-excel\"
+    },
+    {
+        \"extension\": \"xlsb\",
+        \"type\": \"application/vnd.ms-excel.sheet.binary.macroenabled.12\"
+    },
+    {
+        \"extension\": \"xlsm\",
+        \"type\": \"application/vnd.ms-excel.sheet.macroenabled.12\"
+    },
+    {
+        \"extension\": \"xlsx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet\"
+    },
+    {
+        \"extension\": \"xlt\",
+        \"type\": \"application/vnd.ms-excel\"
+    },
+    {
+        \"extension\": \"xltm\",
+        \"type\": \"application/vnd.ms-excel.template.macroenabled.12\"
+    },
+    {
+        \"extension\": \"xltx\",
+        \"type\": \"application/vnd.openxmlformats-officedocument.spreadsheetml.template\"
+    },
+    {
+        \"extension\": \"xlw\",
+        \"type\": \"application/vnd.ms-excel\"
+    },
+    {
+        \"extension\": \"xm\",
+        \"type\": \"audio/xm\"
+    },
+    {
+        \"extension\": \"xml\",
+        \"type\": \"application/xml\"
+    },
+    {
+        \"extension\": \"xo\",
+        \"type\": \"application/vnd.olpc-sugar\"
+    },
+    {
+        \"extension\": \"xop\",
+        \"type\": \"application/xop+xml\"
+    },
+    {
+        \"extension\": \"xpi\",
+        \"type\": \"application/x-xpinstall\"
+    },
+    {
+        \"extension\": \"xpl\",
+        \"type\": \"application/xproc+xml\"
+    },
+    {
+        \"extension\": \"xpm\",
+        \"type\": \"image/x-xpixmap\"
+    },
+    {
+        \"extension\": \"xpr\",
+        \"type\": \"application/vnd.is-xpr\"
+    },
+    {
+        \"extension\": \"xps\",
+        \"type\": \"application/vnd.ms-xpsdocument\"
+    },
+    {
+        \"extension\": \"xpw\",
+        \"type\": \"application/vnd.intercon.formnet\"
+    },
+    {
+        \"extension\": \"xpx\",
+        \"type\": \"application/vnd.intercon.formnet\"
+    },
+    {
+        \"extension\": \"xsl\",
+        \"type\": \"application/xml\"
+    },
+    {
+        \"extension\": \"xslt\",
+        \"type\": \"application/xslt+xml\"
+    },
+    {
+        \"extension\": \"xsm\",
+        \"type\": \"application/vnd.syncml+xml\"
+    },
+    {
+        \"extension\": \"xspf\",
+        \"type\": \"application/xspf+xml\"
+    },
+    {
+        \"extension\": \"xul\",
+        \"type\": \"application/vnd.mozilla.xul+xml\"
+    },
+    {
+        \"extension\": \"xvm\",
+        \"type\": \"application/xv+xml\"
+    },
+    {
+        \"extension\": \"xvml\",
+        \"type\": \"application/xv+xml\"
+    },
+    {
+        \"extension\": \"xwd\",
+        \"type\": \"image/x-xwindowdump\"
+    },
+    {
+        \"extension\": \"xyz\",
+        \"type\": \"chemical/x-xyz\"
+    },
+    {
+        \"extension\": \"xz\",
+        \"type\": \"application/x-xz\"
+    },
+    {
+        \"extension\": \"yang\",
+        \"type\": \"application/yang\"
+    },
+    {
+        \"extension\": \"yin\",
+        \"type\": \"application/yin+xml\"
+    },
+    {
+        \"extension\": \"z\",
+        \"type\": \"application/x-compress\"
+    },
+    {
+        \"extension\": \"Z\",
+        \"type\": \"application/x-compress\"
+    },
+    {
+        \"extension\": \"z1\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"z2\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"z3\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"z4\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"z5\",
+        \"type\": \"ion/x-zmachine\"
+    },
+    {
+        \"extension\": \"z6\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"z7\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"z8\",
+        \"type\": \"application/x-zmachine\"
+    },
+    {
+        \"extension\": \"zaz\",
+        \"type\": \"application/vnd.zzazz.deck+xml\"
+    },
+    {
+        \"extension\": \"zip\",
+        \"type\": \"application/zip\"
+    },
+    {
+        \"extension\": \"zir\",
+        \"type\": \"application/vnd.zul\"
+    },
+    {
+        \"extension\": \"zirz\",
+        \"type\": \"application/vnd.zul\"
+    },
+    {
+        \"extension\": \"zmm\",
+        \"type\": \"application/vnd.handheld-entertainment+xml\"
+    }
+]     
+</string>
+
+</resources>

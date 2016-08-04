@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTitleBar">
+        <attr name="titleText" format="string" />
+        <attr name="rTitleText" format="string" />
+        <attr name="backBtnVisibility" format="boolean" />
+        <attr name="leftiiiBtnVisibility" format="boolean" />
+        <attr name="rightBtnVisibility" format="boolean" />
+        <attr name="rightTvVisibility" format="boolean" />
+        <attr name="leftredVisibility" format="boolean" />
+        <attr name="backBtnBackground" format="reference" />
+        <attr name="leftiiiBtnBackground" format="reference" />
+        <attr name="rightBtnBackground" format="reference" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="integer" />
+        <attr name="rTextColor" format="color" />
+        <attr name="rTextSize" format="integer" />
+    </declare-styleable>
+</resources>

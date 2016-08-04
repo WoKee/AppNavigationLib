@@ -1,0 +1,2 @@
+# Appnavigationlib
+only test jcenter 
