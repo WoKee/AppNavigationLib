@@ -80,7 +80,12 @@ public class RootInfoCallBack extends StringCallback {
 		RootInfo rootInfo = GsonUtil.fromJson(arg1.getMessage(),RootInfo.class);
 		if (rootInfo == null) {
 			rootInfo = new RootInfo();
-			rootInfo.setMsg("网络异常");
+//			java.io.IOException: request failed , reponse's code is : 404
+			if (arg1 instanceof  IOException && arg1.getMessage().contains("404")){
+				rootInfo.setMsg("服务器开小差了，请稍后重试");
+			  }else{
+				rootInfo.setMsg("网络异常");
+			}
 		} else {
 			rootInfo.setMsg("服务器开小差了，请稍后重试");
 		}
@@ -124,7 +129,7 @@ public class RootInfoCallBack extends StringCallback {
 			}
 			rootInfo.setRequest(request);
 			rootInfo.setResponse(response);
-			rootInfo.setServerCode(0);
+//			rootInfo.setServerCode(0);
 			rootInfo.setWhat(mWhat);
 			mHandler.sendMessage(mHandler.obtainMessage(HttpStatusConts.ERROR, rootInfo));
 			return;
