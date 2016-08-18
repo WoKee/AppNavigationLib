@@ -25,6 +25,16 @@ public class StoreShareValue {
         		return context.getSharedPreferences(sharedName, Context.MODE_PRIVATE);
     }
 
+    public static void remove(String key,Context context,
+                              String sharedName){
+        try {
+           SharedPreferences sharedPreferences= getDataShared(context, sharedName);
+            sharedPreferences.edit().remove(key).apply();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+
     public static String getString(String key, String defaultStr, Context context,
                                    String sharedName) {
         
@@ -32,15 +42,14 @@ public class StoreShareValue {
     		SharedPreferences sharedPreferences = getDataShared(context, sharedName);
             return sharedPreferences.getString(key, defaultStr);
 		} catch (Exception e) {
-			// TODO: handle exception
-			return "";
+			return defaultStr;
 		}
     }
 
     public static void putString(String key, String value, Context context,
                                  String sharedName) {
         SharedPreferences sharedPreferences = getDataShared(context, sharedName);
-        sharedPreferences.edit().putString(key, value).commit();
+        sharedPreferences.edit().putString(key, value).apply();
     }
 
     public static int getInt(String key, int defaultValue, Context context,
@@ -50,20 +59,19 @@ public class StoreShareValue {
     		SharedPreferences sharedPreferences = getDataShared(context, sharedName);
             return sharedPreferences.getInt(key, defaultValue);
 		} catch (Exception e) {
-			// TODO: handle exception
-			return -1;
+			return defaultValue;
 		}
     }
 
     public static void putInt(String key, int value, Context context,
                               String sharedName) {
         SharedPreferences sharedPreferences = getDataShared(context, sharedName);
-        sharedPreferences.edit().putInt(key, value).commit();
+        sharedPreferences.edit().putInt(key, value).apply();
     }
     public static void putBoolean(String key, Boolean value, Context context,
                                   String sharedName) {
         SharedPreferences sharedPreferences = getDataShared(context, sharedName);
-        sharedPreferences.edit().putBoolean(key, value).commit();
+        sharedPreferences.edit().putBoolean(key, value).apply();
     }
     public static boolean getBoolean(String key, Boolean defaultValue, Context context,
                                      String sharedName) {
@@ -72,14 +80,13 @@ public class StoreShareValue {
     		 SharedPreferences sharedPreferences = getDataShared(context, sharedName);
     	        return sharedPreferences.getBoolean(key, defaultValue);
 		} catch (Exception e) {
-			// TODO: handle exception
-		        return false;
+		        return defaultValue;
 		}
     }
     public static void putFloat(String key, Float value, Context context,
                                 String sharedName) {
         SharedPreferences sharedPreferences = getDataShared(context, sharedName);
-        sharedPreferences.edit().putFloat(key, value).commit();
+        sharedPreferences.edit().putFloat(key, value).apply();
     }
     public static float getFloat(String key, Float defaultValue, Context context,
                                  String sharedName) {
@@ -87,14 +94,13 @@ public class StoreShareValue {
     	  SharedPreferences sharedPreferences = getDataShared(context, sharedName);
           return sharedPreferences.getFloat(key, defaultValue);
 	} catch (Exception e) {
-		// TODO: handle exception
-		return -1f;
+		return defaultValue;
 	}
     }
     public static void putLong(String key, Long value, Context context,
                                String sharedName) {
         SharedPreferences sharedPreferences = getDataShared(context, sharedName);
-        sharedPreferences.edit().putLong(key, value).commit();
+        sharedPreferences.edit().putLong(key, value).apply();
     }
     public static long getLong(String key, Long defaultValue, Context context,
                                String sharedName) {
@@ -102,8 +108,7 @@ public class StoreShareValue {
     	   SharedPreferences sharedPreferences = getDataShared(context, sharedName);
            return sharedPreferences.getLong(key, defaultValue);
 	} catch (Exception e) {
-		// TODO: handle exception
-		return -1l;
+		return defaultValue;
 	}
     }
     public static String getSerialNumber() {
@@ -118,7 +123,7 @@ public class StoreShareValue {
         String time=sdf.format(new Date());
         serialNumber.append(time);
         }catch (Exception e) {
-			// TODO: handle exception
+            e.printStackTrace();
 		}
         return serialNumber.toString();
     }
@@ -136,8 +141,8 @@ public class StoreShareValue {
         String data = new String(Base64.encode(baos.toByteArray(), Base64.DEFAULT));
         SharedPreferences.Editor editor = sharedPreferences.edit();
         // 将编码后的字符串写到base64.xml文件中
-        editor.putString(objectKeyName,data);
-        editor.commit();
+        editor.putString(objectKeyName,data).apply();
+//        editor.apply();
     	} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -162,8 +167,6 @@ public class StoreShareValue {
         SharedPreferences sharedPreferences = context.getSharedPreferences(sharedName,
                 Context.MODE_PRIVATE);
         String data = sharedPreferences.getString(objectKeyName, "");
-        if(data == null)
-        	return null;
         // 对Base64格式的字符串进行解码
         byte[] base64Bytes = Base64.decode(data.getBytes(), Base64.DEFAULT);
         bais = new ByteArrayInputStream(base64Bytes);
