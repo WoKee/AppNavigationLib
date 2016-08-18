@@ -45,11 +45,11 @@ public class RootInfo<V,D,O> extends RootConvert implements Serializable {
 	
 	private int code;
 
-	private Request request;//请求头部
+	private transient Request request;//请求头部
 	
-	private Response response;//请求结果
+	private transient Response response;//请求结果
 	
-	private BaseRequestBean baseRequestBean ;// 自定义请求数据头部
+	private transient BaseRequestBean baseRequestBean ;// 自定义请求数据头部
 	
 	
 	
