@@ -25,8 +25,14 @@ public class StoreShareValue {
         		return context.getSharedPreferences(sharedName, Context.MODE_PRIVATE);
     }
 
-    public static void remove(String key,Context context,
-                              String sharedName){
+    public static void clear(Context context,String sharedName){
+        try {
+            getDataShared(context, sharedName).edit().clear().apply();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+    public static void remove(String key,Context context,String sharedName){
         try {
            SharedPreferences sharedPreferences= getDataShared(context, sharedName);
             sharedPreferences.edit().remove(key).apply();

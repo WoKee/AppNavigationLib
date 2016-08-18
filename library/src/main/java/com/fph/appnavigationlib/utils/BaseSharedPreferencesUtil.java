@@ -56,7 +56,15 @@ public class BaseSharedPreferencesUtil {
 		context=appcontext;
 		USE_KEY=userKey;
 	}
-	
+
+	public static void remove(String key){
+		StoreShareValue.remove(key,context,USE_KEY);
+	}
+
+	public static void clear(){
+		StoreShareValue.clear(context, USE_KEY);
+	}
+
 	/**
 	 * 封装putString
 	 * 
@@ -71,7 +79,7 @@ public class BaseSharedPreferencesUtil {
 	 * 封装getString
 	 * 
 	 * @param key
-	 * @param value
+	 * @param defaultStr
 	 */
 	 public static String getString(String key, String defaultStr) {
 			return StoreShareValue.getString(key, defaultStr, context, USE_KEY);
@@ -111,7 +119,6 @@ public class BaseSharedPreferencesUtil {
 		 * 封装getobject
 		 * 
 		 * @param key
-		 * @param defaultValue
 		 * @return
 		 */
 		 public static Object getObject(String key) {
