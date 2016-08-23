@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- pulltorefreshview  所有集成baseList a/f ids  引用@id/xxx  ||  R.id.xxxx -->
-    <item name="pulltorefreshview" type="id"/>
-    <item name="pulltorefreshview_listview" type="id"/>
-    <!-- end -->
-
-</resources>
